@@ -49,16 +49,23 @@ turret_plasma_v4 = plasma_turret_v4.dds,turrets_alliance.dds,28
 turret_ecm_v1 = alliance_turret_ecm_v1.dds,turrets_alliance.dds,31
 
 [victory_messages]
-0 = "Clap your Antennae! victory is ours. Award yourself another decorative insignia on your thorax!"
-1 = "Well slap my exoskeleton, if it isn't another glorious victory for the alliance. Nice work!"
+0 = "Clap your antennae! Victory is ours. Award yourself another decorative insignia on your thorax!"
+1 = "Well slap my exoskeleton, if it isn't another glorious victory for the Alliance. Nice work!"
 2 = "Aha we are triumphant! More proof that six legs will always trump two, even in battle. Oh yes..."
-3 = "before you know it you'll be collecting your six ceremonial platinum leg-bands."
+3 = "Before you know it you'll be collecting your six ceremonial platinum leg-bands."
+4 = "If those dumb bipeds could count they'd have known this was decided a long time ago."
+5 = "A victory like this makes one want to hexagon dance."
+6 = "Hah! They were mere pupa before your evolved strategies."
+7 = "What shall we name this historic victory? The Triumph Over Two? The Success of Six Legs? Oh I can't wait to see what the pheromone publications come up with."
 
 [defeat_messages]
-1 = "Hang your Antennae in shame! Your fleet is in ruins and you have bought disgrace upon the alliance!"
+1 = "Hang your antennae in shame! Your fleet is in ruins and you have bought disgrace upon the Alliance!"
 2 = "What have you done? How can you let some feeble bipedal species get the better of you like this?"
 3 = "Gah! failure! This is no way to earn promotion. Return to your space-hive in disgrace!"
-4 = "Any more embarrassing defeats like that and you will demoted to shoveling out the space-hives."
+4 = "Any more embarrassing defeats like that and you will be demoted to shoveling out the space-hives."
+5 = "You have SIX legs! How could you lose to someone with TWO?!"
+6 = "I'll have your wings plucked for this disaster."
+7 = "As punishment for your failure, you will walk on two legs for the next two months. May each step teach you a lesson in SHAME."
 
 [crew]
 0 = "Zarg"
@@ -77,3 +84,4 @@ turret_ecm_v1 = alliance_turret_ecm_v1.dds,turrets_alliance.dds,31
 13 = "Xiloop"
 14 = "Xoomak"
 15 = "Zeldarp"
+16 = "Pliplap"

@@ -56,6 +56,8 @@ turret_ecm_v1 = fed_turret_ecm_v1.dds,turrets_federation.dds,31
 5 = "Keep it up and you'll find a mini-bar in your quarters, champ."
 6 = "I see that second executive assistant really did make the difference in your productivity. Shame they were fired to pay for the bosses' new space-yacht."
 7 = "Now THAT is definitely going in your performance review. Well done."
+8 = "Guess you'll have to send those new business cards back to the press, Mr. Just-Got-Promoted."
+9 = "After this intrepid success we've decided to advance you to the PAID internship! Exciting, isn't it?"
 
 [defeat_messages]
 1 = "Many Federation lives lost, and worse still, a huge financial loss. Those spaceships aren't cheap you know..."
@@ -65,6 +67,8 @@ turret_ecm_v1 = fed_turret_ecm_v1.dds,turrets_federation.dds,31
 5 = "Hoo boy...yeah that's definitely coming up in your quarterly review bud."
 6 = "I knew they made the wrong call promoting you from the TPS department. No offense, by the way."
 7 = "Thanks a million. I was really worried you'd get the promotion instead of me."
+8 = "Hope you didn't hand any of those new business cards out yet. Just got off the phone - you've been demoted."
+9 = "You're fired."
 
 [crew]
 0 = "Hank"

@@ -1,103 +1,103 @@
 [names]
-Total Overkill
-Galactic Maniac
-Stellar Badass
-Solar Ninja
-Target Practice
-Or Die Trying
-Victory Or Death
-Hand Of God
-Planet Pounder
-The Zap Wagon
-Lasers R Us
-Little Green Men
-Warped Mind
-Andromeda or Bust
-Die Puny Humans!
-Behold My Tentacles
-Fun With Fusion
-Nuclear Kitten
-Suicidal Tendencies
+Agoraphobia In an Open Space
+Ambivalent Ambition
+Andromeda Or Bust
+Anxiety, Attack, Disorder
+Authorized Dreamcatcher
 Bag Of Spanners
-Monetarism makes the world go round
-It’s a rich mans worm
-First law of thermoapathy
-Second law of thermowhatever
-Third law of thermoindifference
-Start an initiative initiative
-The indifference engine
-Empathic enthalpy
-Intimidate don’t imitate
-Innovate don’t interrogate
-It’s such a perfect day
-Perfectly straight curve
-Ropy entropy
-String theory in knots
-Intelligent life sought
-Potted history
-Upward and onward
-Once more unto the breech
-Sticks and stones
-Chaos theory in disarray
-Somewhere over the rainbow, way, way up high
-Implausibility clause
-The first time ever I saw your race
-Lucid dreams
-Authorized dreamcatcher
-It’s only a dream
-Dream on
-Head in the clouds
-Tenuous tentacles
-Tentative tentacles
-Crash test dumbass
-Deaf, dumb and blasé
-Crash mat
-Law of diminishing returns
-Well, flagellate my flagella
-Please wipe your fleet
-One fleeting moment
-Best fleet forward
-Out flanked
-I’m your wingman
-Probiotic army
-Probing proboscis
-My proboscis sucks
-Survival of the fittest
-Common ancestor
-Fruit fly of my loins
-Fruit fly of my labor
-Linkage disequilibrium
-Natural de-selection
-Sampling error
-Symbiotic selves
-Strawberries and cream
-Orders of magnitude taken at the bar
-Normal laws of engagement do not apply
-Diplomatic angst
-Agoraphobia in an open space
-Ambivalent ambition
-Obsessive compulsive misbehaviour
-Anxiety, attack, disorder
-Basic human riots
-Look for the blind spot
-Catatonic pick-me-up
-Live outside the box
-Contingency plan?
-Coping mechanoid
-Defense mechanoid
-Self delusional beginnings
-Mine the gap
-Step away from the controls
-Displacement inactivity
-Fight of fancy
-Free disassociation
-Grandiosity of delusional proportions
-Memory consolidation
-Tactile hallucination
-Voyeurism to the bottom of the sea
-Voyeurism to outer space
-Zeitgeist heist
-Perpetual notion
+Basic Human Riots
+Behold My Tentacles
+Best Fleet Forward
+Catatonic Pick-Me-Up
+Chaos Theory in Disarray
+Common Ancestor
+Contingency Plan?
+Coping Mechanoid
+Crash Mat
+Crash Test Dumbass
+Deaf, Dumb and Blasé
+Defense Mechanoid
+Die Puny Humans!
+Diplomatic Angst
+Displacement Inactivity
+Dream On
+Empathic Enthalpy
+Fight of Fancy
+First Law of Thermoapathy
+Free Disassociation
+Fruit Fly of My Labor
+Fruit Fly of My Loins
+Fun With Fusion
+Galactic Maniac
+Grandiosity Of Delusional Proportions
+Hand Of God
+Head In the Clouds
+I’m Your Wingman
+Implausibility Clause
+Innovate Don’t Interrogate
+Intelligent Life Sought
+Intimidate Don’t Imitate
+It’s A Rich Mans Worm
+It’s Only a Dream
+It’s Such a Perfect Day
+Lasers R Us
+Law Of Diminishing Returns
+Linkage Disequilibrium
+Little Green Men
+Live Outside the Box
+Look For the Blind Spot
+Lucid Dreams
+Memory Consolidation
+Mine The Gap
+Mobile Complaint Department
+Monetarism Makes The World Go Round
+My Proboscis Sucks
+Natural De-Selection
 Non-Disclosure Agreement
 Non-Escape Agreement
-Mobile Complaint Department
+Normal Laws of Engagement Do Not Apply
+Nuclear Kitten
+Obsessive Compulsive Misbehaviour
+Once More unto The Breech
+One Fleeting Moment
+Or Die Trying
+Orders Of Magnitude Taken at The Bar
+Out Flanked
+Perfectly Straight Curve
+Perpetual Notion
+Planet Pounder
+Please Wipe Your Fleet
+Potted History
+Probing Proboscis
+Probiotic Army
+Ropy Entropy
+Sampling Error
+Second Law of Thermowhatever
+Self-Delusional Beginnings
+Solar Ninja
+Somewhere Over the Rainbow, Way, Way Up High
+Start An Initiative Initiative
+Stellar Badass
+Step Away from The Controls
+Sticks And Stones
+Strawberries and Cream
+String Theory in Knots
+Suicidal Tendencies
+Survival Of the Fittest
+Symbiotic Selves
+Tactile Hallucination
+Target Practice
+Tentative Tentacles
+Tenuous Tentacles
+The First Time Ever I Saw Your Race
+The Indifference Engine
+The Zap Wagon
+Third Law of Thermoindifference
+Total Overkill
+Upward And Onward
+Victory Or Death
+Voyeurism To Outer Space
+Voyeurism To the Bottom Of The Sea
+Warped Mind
+Well, Flagellate My Flagella
+Zeitgeist Heist

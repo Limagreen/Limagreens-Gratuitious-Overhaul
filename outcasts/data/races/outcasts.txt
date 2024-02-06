@@ -1,0 +1,118 @@
+[config]
+name = "outcasts"
+guiname = "Outcasts"
+logo = "outcasts.jpg"
+debrisstartuv = 0
+debrisenduv = 32
+escapepodid = 3
+shield = "outcasts_shield.dds"
+description = "It had all started so simply, eleven thousand years ago. The odd replacement leg here, the odd augmented eye there, and for a while everyone on the Vla-hurk home-world was quite happy with the trend towards cybernetic augmentation. Then along came the New World Religion, and the obsession with ‘biological purity’, and before you know it, half the Vla-hurk population is being shunned for having so much as a hip replacement operation. And so it went on, until after a thousand years of this, the augmented half the Vla-hurk finally said ‘screw this for a game of soldiers’, climbed aboard their freshly built fleet of battleships and nuked the whole planet from orbit, never to return, or set foot on a planetary surface again. And ever since, the Vla-hurk 2.0, known commonly as ‘the outcasts’ have roamed the galaxy, still angered at the discrimination that lives on in their now heavily-augmented memories, and determined to dish out their own form of punishment, this time against so called ‘pure-biologicials’, with their much feared war cry of ‘how do you like them apples?’. They may be murderous cybernetic psychopaths, but they still have a sense of humour."
+repairbotid = 0
+contrailid = 0
+music = outcasts/data/sounds/music/outcasts_music.ogg
+shieldcollapseuv = 0
+defaultnames = outcastnames
+guiid = 10
+lockable = 0
+unlockcost = 0
+unlock_texture = "OutcastGalliumFrigate.dds"
+
+[turrets]
+turret_auto_v1 = outcast_cannon1.dds,turrets_outcasts.dds,0
+turret_auto_v2 = outcast_cannon2.dds,turrets_outcasts.dds,1
+turret_auto_v3 = outcast_cannon1.dds,turrets_outcasts.dds,0
+turret_auto_v4 = outcast_cannon2.dds,turrets_outcasts.dds,1
+turret_auto_v5 = outcast_cannon1.dds,turrets_outcasts.dds,0
+turret_auto_v6 = outcast_cannon2.dds,turrets_outcasts.dds,1
+
+turret_bull_v1 = outcast_gun1.dds,turrets_outcasts.dds,2
+turret_bull_v2 = outcast_gun2.dds,turrets_outcasts.dds,3
+turret_bull_v3 = outcast_gun3.dds,turrets_outcasts.dds,4
+turret_bull_v4 = outcast_gun4.dds,turrets_outcasts.dds,5
+
+turret_las_v1 = outcast_beam1.dds,turrets_outcasts.dds,6
+turret_las_v2 = outcast_beam2.dds,turrets_outcasts.dds,7
+turret_las_v3 = outcast_beam3.dds,turrets_outcasts.dds,8
+turret_las_v4 = outcast_beam4.dds,turrets_outcasts.dds,9
+turret_las_v5 = outcast_beam4.dds,turrets_outcasts.dds,9
+
+turret_miss_v1 = outcast_missile1.dds,turrets_outcasts.dds,10
+turret_miss_v2 = outcast_missile2.dds,turrets_outcasts.dds,11
+turret_miss_v3 = outcast_missile3.dds,turrets_outcasts.dds,12
+turret_miss_v4 = outcast_missile4.dds,turrets_outcasts.dds,13
+turret_miss_v5 = outcast_missile4.dds,turrets_outcasts.dds,13
+
+turret_pd_v1 = outcast_pd1.dds,turrets_outcasts.dds,14
+turret_pd_v2 = outcast_pd2.dds,turrets_outcasts.dds,15
+
+tractor_turret_v1 = outcast_trac1.dds,turrets_outcasts.dds,27
+tractor_turret_v2 = outcast_trac2.dds,turrets_outcasts.dds,29
+
+turret_plasma_v1 = outcast_extra1.dds,turrets_outcasts.dds,24
+turret_plasma_v2 = outcast_extra2.dds,turrets_outcasts.dds,25
+turret_plasma_v3 = outcast_extra3.dds,turrets_outcasts.dds,26
+turret_plasma_v4 = outcast_extra4.dds,turrets_outcasts.dds,28
+
+turret_ecm_v1 = outcast_extra3.dds,turrets_outcasts.dds,26
+
+turret_sniper = outcast_sniper.dds,turrets_outcasts.dds,16
+turret_pulsegun = outcast_pulse.dds,turrets_outcasts.dds,15
+turret_holo = outcast_holo.dds,turrets_outcasts.dds,14
+
+[victory_messages]
+0 = "Good work commander. That will show those primitive biological life-forms whose boss eh? I congratulate you and your implants."
+1 = "Nice shooting commander! although to be fair, I should probably be congratulating the factory that made your trigger fingers, rather than you. Nice job all the same."
+2 = "Ha! well that pretty much definitively answers the question as to who has fastest reflexes? a mere squidgy biological, or a cybernetic warrior like us! (It's us, in case you are still confused)."
+3 = "Well bless my implants, that was a superb display of fireworks you put on for us there. It's always entertaining seeing those grubby biological life-forms getting atomised."
+
+[defeat_messages]
+0 = "What went wrong there? Did you swap your tactical implants for a pocket calculator? I think it's time your cyber-brain went back to the factory for a re-set."
+1 = "Sad, sad times are these when a bunch of what I can only describe as mere 'animals' can outwit a superior, augmented species such as ours. Sad days indeed, and all your fault, obviously..."
+2 = "A terrible defeat! and at the hands of mere animals too! What next? getting usurped in your own home by pets? What went wrong?"
+3 = "It looks like quality control took the day off when they installed your strategic-thinking implants. To be beaten by those grubby animals...the shame of it!"
+4 = "I see what went wrong, there must have been a mix-up and we gave you implants for the dishwasher instead of controlling a battlefleet. It's the only explanation for this disaster that makes sense..."
+
+[crew]
+0 = "Yossarian"
+1 = "Tappman"
+2 = "Cathcart"
+3 = "Daneeka"
+4 = "Minderbinder"
+5 = "Nately"
+6 = "Scheisskopf"
+7 = "Snowden"
+8 = "Appleby"
+9 = "Cargill"
+10 = "Clevinger"
+11 = "Cramer"
+12 = "Danby"
+13 = "Dreedle"
+14 = "Dobbs"
+15 = "Duckett"
+16 = "Dunbar"
+17 = "Flume"
+18 = "Havermeyer"
+19 = "Huple"
+20 = "Kolodny"
+21 = "McWatt"
+22 = "Moodus"
+23 = "Orr"
+24 = "Sampson"
+25 = "Sanderson"
+26 = "Singer"
+27 = "Towser"
+28 = "Stubbs"
+29 = "Whitcomb"
+30 = "Halfoat"
+31 = "Wintergreen"
+32 = "Kelly"
+33 = "Colt"
+34 = "Oddball"
+35 = "Maitland"
+36 = "Fisher"
+37 = "Petuko"
+38 = "Gutowski"
+39 = "Mulligan"
+40 = "Booker"
+
+

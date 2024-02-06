@@ -1,0 +1,100 @@
+[config]
+name = "nomads"
+guiname = "Nomads"
+logo = "nomads.jpg"
+debrisstartuv = 224
+debrisenduv = 256
+escapepodid = 1
+shield = "nomad_shield.dds"
+description = "It's not about the destination, it's about the journey. You journey is to your death, preferably by high-powered plasma torpedo volleys, if the armada of aliens known as 'the nomads' are to be believed..The nomads have no homeworld, they don't believe it's time to 'settle down' as a species. They are still looking to find the right planet, and killing time (and aliens) in the meantime. It's nothing personal you understand, it's just the way the nomads entertain themselves. Galactic genocide is their sport of choice."
+repairbotid = 0
+contrailid = 3
+music = empire_battle.ogg
+shieldcollapseuv = 0
+defaultnames = nomadnames
+guiid = 8
+lockable = 0
+unlockcost = 0
+unlock_texture = "Nomad Abbadi Cruiser.dds"
+
+[turrets]
+turret_auto_v1 = nomad_turret_auto1.dds,turrets_nomad.dds,0
+turret_auto_v2 = nomad_turret_auto2.dds,turrets_nomad.dds,1
+turret_auto_v3 = nomad_turret_auto3.dds,turrets_nomad.dds,2
+turret_auto_v4 = nomad_turret_auto4.dds,turrets_nomad.dds,3
+turret_auto_v5 = nomad_turret_auto5.dds,turrets_nomad.dds,4
+turret_auto_v6 = nomad_turret_auto5.dds,turrets_nomad.dds,4
+
+turret_bull_v1 = nomad_turret_gun1.dds,turrets_nomad.dds,5
+turret_bull_v2 = nomad_turret_gun3.dds,turrets_nomad.dds,7
+turret_bull_v3 = nomad_turret_gun4.dds,turrets_nomad.dds,8
+turret_bull_v4 = nomad_turret_gun6.dds,turrets_nomad.dds,9
+
+turret_las_v1 = nomad_turret_las1.dds,turrets_nomad.dds,10
+turret_las_v2 = nomad_turret_las2.dds,turrets_nomad.dds,11
+turret_las_v3 = nomad_turret_las3.dds,turrets_nomad.dds,12
+turret_las_v4 = nomad_turret_las4.dds,turrets_nomad.dds,13
+turret_las_v5 = nomad_turret_las6.dds,turrets_nomad.dds,15
+
+turret_miss_v1 = nomad_turret_miss_v1.dds,turrets_nomad.dds,16
+turret_miss_v2 = nomad_turret_miss_v2.dds,turrets_nomad.dds,17
+turret_miss_v3 = nomad_turret_miss_v3.dds,turrets_nomad.dds,18
+turret_miss_v4 = nomad_turret_miss_v4.dds,turrets_nomad.dds,19
+turret_miss_v5 = nomad_turret_miss_v4.dds,turrets_nomad.dds,19
+
+turret_pd_v1 = nomad_turret_pd1.dds,turrets_federation.dds,24
+turret_pd_v2 = nomad_turret_pd2.dds,turrets_federation.dds,25
+
+tractor_turret_v1 = nomad_turret_las5.dds,turrets_nomad.dds,14
+tractor_turret_v2 = nomad_turret_las5.dds,turrets_nomad.dds,14
+
+turret_plasma_v1 = nomad_turret_plas1.dds,turrets_nomad.dds,22
+turret_plasma_v2 = nomad_turret_plas1.dds,turrets_nomad.dds,22
+turret_plasma_v3 = nomad_turret_plas2.dds,turrets_nomad.dds,23
+turret_plasma_v4 = nomad_turret_plas2.dds,turrets_nomad.dds,23
+
+turret_ecm_v1 = nomad_turret_las6.dds,turrets_nomad.dds,4
+
+[victory_messages]
+0="Good shooting! That's a pretty respectable victory. These new, modern alien ships make pretty patterns when they blow up don't they? Good show!"
+1="Good work. At this rate, you won't have much space left for medals. How many alien fleets have you vaporised so far this millennia?"
+2="Some very aesthetically pleasing warp-drive detonations to be seen there. Good show. Much better than our normal in-flight entertainment."
+3="Nice work. You really have developed a flair for pulverising the aliens in this part of space. It's a pleasure to watch the fireworks."
+
+[defeat_messages]
+0="Oh jolly bad luck. It seems like this galaxy has some particularly feisty alien races doesn't it?"
+1="Oh dear, you really did let the side down rather badly there. I guess that's one point to the aliens. Time for a snack perhaps?"
+2="I say, are your crew asleep at their laser cannons again? You let johnny alien give your boys a bit of a thrashing there didn't you?"
+3="That was painful to watch. Are you really saying your fifty thousand year old crew can't beat a bunch of kindergarten aliens barely out of the steam age?"
+
+[crew]
+0="Aban"
+1="Abdul"
+2="Jabbar"
+3="Khaliq"
+4="Mujib"
+5="Abrahar"
+6="Akram"
+7="Ammar"
+8="Barakah"
+9="Fadil"
+10="Fouad"
+11="Habib"
+12="Hashim"
+13="Imran"
+14="Jawad"
+15="Jabbar"
+16="Kaliq"
+17="Kaseem"
+18="Khalid"
+19="Maliq"
+20="Nadim"
+21="Nasim"
+22="Nawaf"
+23="Qasim"
+24="Rayhan"
+25="Samir"
+26="Tariq"
+27="Wakil"
+28="Zahir"
+29="Zafar"

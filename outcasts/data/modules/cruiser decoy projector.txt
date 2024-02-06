@@ -1,0 +1,33 @@
+[config]
+unlockcost = 4950
+lockable = 1
+category = "DEFENSES"
+classname = "SIM_DecoyProjector"
+cost = 110
+crew_required = 8
+description = "Projects a fake holographic image of the host ship in front of it to draw away enemy fire. Always good fun in battles, or indeed at parties."
+guiname = "Cruiser Decoy projector"
+hitpoints = 100
+icon = turret
+name = "cruiser_decoy_projector"
+powerconsumed = 10
+size = "CRUISER"
+sound = 
+soundvolume = 
+speed = 9.4
+tracking_speed = 0.81
+turret_sprite = "turret_holo"
+turretsize = 12.0
+weight = 135
+slot_type = TURRET
+uisortpos = 2202
+recharge_rate = 0.0001
+consumption_rate = 0.0001
+restricted = "outcasts"
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER

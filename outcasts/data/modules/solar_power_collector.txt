@@ -1,0 +1,28 @@
+[config]
+unlockcost = 3900
+lockable = 1
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "solar_power_collector"
+guiname = "Solar Power Collector"
+description = "Free power is all around you, if only you have the brains to know how to collect it. This compact and efficient little solar-concentrating powerplant does precisely that. Hurrah!"
+weight = 62
+hitpoints = 8
+cost = 140
+icon = module_power_solar.dds
+crew_required = 26
+powerconsumed = 0
+powerproduced = 30
+slot_type = STANDARD
+uisortpos = 4051
+restricted = "outcasts"
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

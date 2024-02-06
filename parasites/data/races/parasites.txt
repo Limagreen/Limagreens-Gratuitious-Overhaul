@@ -1,0 +1,97 @@
+[config]
+name = "parasites"
+guiname = "Parasites"
+logo = "parasites.jpg"
+debrisstartuv = 224
+debrisenduv = 256
+escapepodid = 1
+shield = "alliance_shield.dds"
+description = "If you catch them at the wrong time the parasites are a race to be reckoned with. Every 200 years or so they travel the galaxy looking for new hosts, and we’re not suggesting that this is a race that excels at making people feel welcome at parties. The hosts they are looking for will provide the much more vital role of keeping the parasites’ immature larvae alive and prospering. For 198 years they have survived by feeding off a species whose own offspring have provided them with essential easily digested nutrients and regenerative salves. However having selected the most sumptuous specimens from the population, the host species has now been severely weakened and their nutrient content compromised. The parasites always go too far, they never did get the idea of mutualism and they never have pets (for long). So now they are venturing from their adopted home planet and in search of a cognate species which breeds freely and is able to give birth at least once per year, with a good growth rate and preferably (although a bit of crunch is acceptable) without an exoskeleton. The parasitoid race is no longer deterred by bright colouring of potential hosts as they know from experience that these are sometimes simple dye additives that some races ingest in a rather feeble attempt to suggest they may be toxic. In the past millennia the parasites have openly advertised their opening for a new host species, however this approach has never proven successful. To save time they now battle, capture, screen and select prospective hosts, it saves a lot of time in the long run. They have had 198 years to upgrade their battle fleet in between breeding and snacking and now want to change the menu. Mmm how tasty are you?"
+repairbotid = 0
+contrailid = 3
+music = rebellion_battle.ogg
+shieldcollapseuv = 0
+defaultnames = parasiteshipnames
+guiid = 9
+lockable = 0
+unlockcost = 0
+unlock_texture = "parasite scyphozoa frigate"
+
+[turrets]
+turret_auto_v1 = Parasite_Gun_Turret.dds,turrets_parasite.dds,0
+turret_auto_v2 = Parasite_Gun_Turret2.dds,turrets_parasite.dds,1
+turret_auto_v3 = Parasite_Gun_Turret2.dds,turrets_parasite.dds,1
+turret_auto_v4 = Parasite_Gun_Turret2.dds,turrets_parasite.dds,1
+turret_auto_v5 = Parasite_Gun_Turret2.dds,turrets_parasite.dds,1
+turret_auto_v6 = Parasite_Gun_Turret2.dds,turrets_parasite.dds,1
+turret_bull_v1 = Parasite_Cannon_Turret.dds,turrets_parasite.dds,2
+turret_bull_v2 = Parasite_Cannon_Turret2.dds,turrets_parasite.dds,3
+turret_bull_v3 = Parasite_Cannon_Turret3.dds,turrets_parasite.dds,4
+turret_bull_v4 = Parasite_Cannon_Turret4.dds,turrets_parasite.dds,5
+turret_las_v1 = Parasite_Beam_Turret.dds,turrets_parasite.dds,6
+turret_las_v2 = Parasite_Beam_Turret2.dds,turrets_parasite.dds,7
+turret_las_v3 = Parasite_Beam_Turret3.dds,turrets_parasite.dds,8
+turret_las_v4 = Parasite_Beam_Turret4.dds,turrets_parasite.dds,9
+turret_las_v5 = Parasite_Beam_Turret4.dds,turrets_parasite.dds,9
+turret_miss_v1 = Parasite_Missile_Turret.dds,turrets_parasite.dds,10
+turret_miss_v2 = Parasite_Missile_Turret2.dds,turrets_parasite.dds,11
+turret_miss_v3 = Parasite_Missile_Turret3.dds,turrets_parasite.dds,12
+turret_miss_v4 = Parasite_Missile_Turret4.dds,turrets_parasite.dds,13
+turret_miss_v5 = Parasite_Missile_Turret4.dds,turrets_parasite.dds,13
+turret_pd_v1 = Parasite_Beam_Turret2.dds,turrets_parasite.dds,7
+turret_pd_v2 = Parasite_Beam_Turret2.dds,turrets_parasite.dds,7
+tractor_turret_v1 = tractor_turret_v1.dds,turrets_parasite.dds,27
+tractor_turret_v2 = tractor_turret_v2.dds,turrets_parasite.dds,29
+turret_plasma_v1 = Parasite_Plasma_Turret1.dds,turrets_parasite.dds,24
+turret_plasma_v2 = Parasite_Plasma_Turret2.dds,turrets_parasite.dds,25
+turret_plasma_v3 = Parasite_Plasma_Turret3.dds,turrets_parasite.dds,26
+turret_ecm_v1 = Parasite_Beam_Turret2.dds,turrets_parasite.dds,10
+
+[victory_messages]
+0="Glorious victory! That was a savage and just slaughter. It makes me hungry just to think of it, lets eat ‘til we're fit to burst and then move onto puddings."
+1="You were ferocious in battle, remember to be magnanimous at dinner."
+2="The sweet taste of victory! Make mine a double with extra toppings and a side order of underlings."
+3="Victory has a thousand diners but defeat is an empty table for one by the toilets. Come dine with me at the victor’s banquet!"
+4="An honourable victory! Let us eat cake, cake and more cake. Let us have our cake and eat it."
+
+[defeat_messages]
+0="Failure! Call those manoeuvres? My pet bot-fly could do better with its wings clipped and its programme scrabbled."
+1="Pathetic! That defeat was no fluke, your formation had the structure of spaghetti and the cunning of custard, go straight to bed and no supper!"
+2="You bring shame with defeat! Were you rendered dim-witted by a toxo-plasma leak or were pin-worms nibbling your candy floss brain?"
+3="A miserable defeat! A whip-worm shows more cunning, strategy and tactics when it ties itself into a pretzel knot and goes to sleep."
+4="A tragic defeat! Even a screw-worm with its meagre camouflage and spinning on the spot routine could have out-witted that noodle-headed enemy."
+
+[crew]
+0="Anisakis"
+1="Ascaris "
+2="Balantidium "
+3="Cestoda" 
+4="Chiggers"
+5="Fasciola" 
+6="Leishmania"
+7="Linguatula" 
+8="Serrata"
+9="Loa-loa"
+10="Paragonimus"
+11="Plasmodium"
+12="Schistosoma"
+13="Strongyloides" 
+14="Trypanosoma"
+15="Borrelia" 
+16="Chagas" 
+17="Dengue" 
+18="Ebola"
+19="Hanta"
+20="Helminth"
+21="Hendra" 
+22="Kyasanur" 
+23="Marburg" 
+24="Nipah" 
+25="Omsk" 
+26="Orf"
+27="Oropouche"
+28="Sodoku"
+29="Spargano"
+30="Tularemia"
+
+

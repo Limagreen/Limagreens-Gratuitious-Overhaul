@@ -1,0 +1,59 @@
+[config]
+classname = frigate
+name = Parasite Medusozoa Frigate hull
+guiname = Parasite Medusozoa Frigate hull
+sprite = Parasite Medusozoa Frigate.dds
+damagetexture = Parasite Medusozoa Frigate_damaged.dds
+hulktexture = Parasite Medusozoa Frigate_hulk.dds
+width = 90
+height = 90
+powerproduced = 9
+cost = 100
+racename = parasites
+unlockcost = 4000
+lockable = 1
+
+[bonuses]
+0 = INTEGRITYBOOST,0.07
+1 = ARMOURBOOST,0.10
+2 = SHIELDBOOST,0.05
+
+[runninglights]
+0 = 81.50,245.50,228.89,4.00,0
+1 = 174.50,245.50,228.89,4.00,1
+
+[engineglows]
+0 = 107.00,262.00,17.58,10.00,engineglow.dds,engine_debris,0,1.00
+1 = 148.50,263.00,17.58,9.84,engineglow.dds,engine_debris,0,1.00
+
+[targets]
+0 = 59.25,60.00,1,1,42.50,39.00,76.00,81.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-60.00-55.00),(damage_sprite_sparks-58.00-67.00),
+1 = 129.00,112.25,1,1,109.50,95.00,148.50,129.50,SHIP_EMMITER_SMALL,(damage_sprite_sparks-123.00-114.00),(damage_sprite_sparks-134.00-116.00),
+2 = 58.00,204.00,1,1,43.50,185.00,72.50,223.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-54.00-199.00),(damage_sprite_sparks-61.00-208.00),(damage_sprite_smoke-58.00-204.00),
+3 = 200.50,203.00,1,1,183.00,185.00,218.00,221.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-195.00-206.00),(damage_sprite_sparks-201.00-200.00),
+4 = 195.75,65.25,1,1,180.00,42.00,211.50,88.50,SHIP_EMMITER_SMALL,(damage_sprite_sparks-195.00-62.00),(damage_sprite_sparks-193.00-75.00),(damage_sprite_smoke-195.00-69.00),
+5 = 114.50,197.50,0,1,100.00,179.50,129.00,215.50,(damage_sprite_sparks-115.00-200.00),
+
+[slots]
+0 = 128.50,180.00,TURRET,(78.50-215.00),(176.50-214.50),
+1 = 151.50,237.00,STANDARD,
+2 = 104.50,207.50,STANDARD,
+3 = 65.50,84.50,STANDARD,
+4 = 104.50,237.00,STANDARD,
+5 = 190.50,84.50,STANDARD,
+6 = 151.50,207.50,STANDARD,
+7 = 127.50,132.50,TURRET,(59.50-136.00),(196.50-136.00),
+8 = 128.00,80.00,TURRET,
+
+[explosions]
+0 = 0.00,60.50,63.50,EXP_FRIGATE
+1 = 210.00,134.00,113.00,EXP_STARTBREAKUP
+2 = 270.00,127.50,115.50,EXP_FRIGATEDEBRIS
+3 = 400.00,60.00,205.50,EXP_FRIGATEBREAKUP
+4 = 400.00,201.00,203.00,EXP_PLUMES
+5 = 400.00,196.50,70.00,EXP_BLASTGLARE
+
+[hulks]
+0 = 34,5,469,300,(emit-385-142-hulk_emmiter),(emit-249-226-hulk_emmiter),(emit-268-237-hulk_emmiter),(emit-122-118-hulk_emmiter),(emit-249-236-hulk_smoke_emmiter),(emit-387-118-hulk_smoke_emmiter),
+1 = 46,307,471,506,(emit-226-396-hulk_emmiter),(emit-406-401-hulk_emmiter),(emit-390-414-hulk_smoke_emmiter),(emit-124-417-hulk_smoke_emmiter),
+

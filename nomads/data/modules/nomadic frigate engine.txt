@@ -1,0 +1,28 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_EngineModule"
+category = "ENGINES"
+size = "FRIGATE"
+name = "nomadic frigate_engine"
+guiname = "Nomadic Frigate Engine"
+description = "Why accept frigate engines made by lesser, more primitive species, when this turbo-charged beast can propel you towards victory with such incredible efficiency?"
+weight = 30
+hitpoints = 46
+thrust = 84
+cost = 112
+icon = module_engine_4.dds
+crew_required = 16
+powerconsumed = 4.1
+slot_type = STANDARD
+uisortpos = 3023
+restricted = "nomads"
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = thrust,DECIMAL
+

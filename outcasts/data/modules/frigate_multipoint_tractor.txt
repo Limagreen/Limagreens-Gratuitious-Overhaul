@@ -1,0 +1,37 @@
+[config]
+unlockcost = 1800
+lockable = 1
+classname = "SIM_TractorModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "frigate multipoint tractor"
+guiname = "Multi-Point Tractor Beam"
+description = "Tractor beams are always good fun, but ones that can engage multiple targets at the same time are even better. Ideal for neutralizing those pesky fighter swarms."
+weight = 29
+hitpoints = 3
+cost = 68
+icon = turret
+crew_required = 15
+beamweight = 33
+beampower = 2300
+powerusage = 1
+powerrecharge = 0.5
+range = 400
+powerconsumed = 13
+turretsize = 12.0
+turret_sprite = "tractor_turret_v2"
+slot_type = TURRET
+uisortpos = 4063
+projectors = 3
+restricted = "outcasts"
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = crew_required,INTEGER
+5 = range,INTEGER
+6 = beamweight,INTEGER
+7 = beampower,INTEGER
+8 = projectors,INTEGER

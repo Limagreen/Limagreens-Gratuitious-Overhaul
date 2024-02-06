@@ -1,0 +1,26 @@
+[config]
+unlockcost = 0
+lockable = 0
+classname = "SIM_PowerModule"
+category = "OTHER"
+size = "FRIGATE"
+name = "nomadic armored powerplant"
+guiname = "Nomadic Armored Powerplant"
+description = "When the nomads build frigate powerplants, they don't use anything but the toughest, most resistant materials they can find. The result? A powerplant that lasts till the bitter end."
+weight = 44
+hitpoints = 45
+cost = 122
+icon = module_powergen_v2.dds
+crew_required = 21
+powerconsumed = 0
+powerproduced = 18
+slot_type = STANDARD
+uisortpos = 4042
+restricted = "nomads"
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerproduced,DECIMAL
+4 = crew_required,INTEGER

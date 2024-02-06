@@ -1,0 +1,60 @@
+[config]
+classname = frigate
+name = Nomad Makki Frigate
+guiname = Nomad Makki Frigate Hull
+sprite = Nomad Makki Frigate.dds
+damagetexture = Nomad Makki Frigate_damaged.dds
+hulktexture = Nomad Makki Frigate_hulk.dds
+width = 100
+height = 100
+powerproduced = 10
+cost = 165
+racename = nomads
+
+[bonuses]
+1 = SPEEDBOOST,0.22
+
+[runninglights]
+0 = 63.00,212.00,291.11,4.00,2
+1 = 193.00,212.00,284.44,4.00,2
+
+[engineglows]
+0 = 240.00,224.00,7.65,9.32,swarm_engineglow.dds,engine_debris,0,1.00
+1 = 16.00,224.00,7.65,9.32,swarm_engineglow.dds,engine_debris,0,1.00
+2 = 210.00,214.00,6.42,6.42,tribe_engineglow.dds,engine_debris,0,1.00
+3 = 46.50,214.00,6.33,6.33,tribe_engineglow.dds,engine_debris,0,1.00
+
+[targets]
+0 = 116.00,67.50,0,1,103.50,49.50,137.50,84.50,(damage_sprite_smoke-114.00-66.00),
+1 = 176.50,155.50,0,1,162.50,123.50,191.00,181.50,(damage_sprite_sparks-174.00-148.00),
+2 = 13.50,174.50,1,1,2.50,156.50,30.00,192.50,SHIP_EMMITER_THIN,(damage_sprite_sparks-16.00-173.00),
+3 = 244.25,179.25,1,1,232.50,159.50,256.00,199.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-245.00-177.00),
+4 = 76.50,142.50,1,1,60.50,98.00,89.50,176.00,SHIP_EMMITER_SMALL,(damage_sprite_sparks-76.00-155.00),
+5 = 128.50,116.25,0,1,113.50,98.50,143.50,134.00,(damage_sprite_sparks-128.00-116.00),
+
+[slots]
+0 = 168.00,113.00,TURRET,
+1 = 128.00,65.50,TURRET,
+2 = 88.00,113.00,TURRET,
+3 = 86.50,146.00,STANDARD,
+4 = 15.50,184.00,STANDARD,
+5 = 240.50,184.00,STANDARD,
+6 = 169.50,146.00,STANDARD,
+7 = 128.00,198.00,STANDARD,
+8 = 46.50,146.50,STANDARD,
+9 = 209.50,146.50,STANDARD,
+10 = 128.00,128.00,TURRET,
+
+[explosions]
+0 = 0.00,128.00,64.00,EXP_FRIGATE
+1 = 210.00,0.00,0.00,EXP_STARTBREAKUP
+2 = 270.00,79.50,149.00,EXP_FRIGATEDEBRIS
+3 = 200.00,129.50,116.50,EXP_FRIGATEBREAKUP
+4 = 200.00,121.50,180.50,EXP_PLUMES
+5 = 200.00,113.00,184.00,EXP_BLASTGLARE
+
+[hulks]
+0 = 3,222,122,444,(emit-39-335-hulk_emmiter),(emit-37-342-hulk_smoke_emmiter),
+1 = 129,42,320,488,(emit-152-316-hulk_emmiter),(emit-154-301-hulk_emmiter),(emit-153-283-hulk_emmiter),(emit-146-242-hulk_emmiter),(emit-248-222-hulk_emmiter),(emit-258-242-hulk_emmiter),(emit-233-133-hulk_emmiter),(emit-251-233-hulk_smoke_emmiter),(emit-239-124-hulk_smoke_emmiter),
+2 = 322,187,510,477,(emit-347-298-hulk_emmiter),(emit-350-333-hulk_emmiter),(emit-488-364-hulk_emmiter),(emit-492-347-hulk_emmiter),(emit-486-354-hulk_smoke_emmiter),(emit-355-304-hulk_smoke_emmiter),
+

@@ -1,0 +1,42 @@
+[config]
+classname = fighter
+name = Nomad Awazem Fighter
+guiname = Nomad Awazem Fighter Hull
+sprite = Nomad Awazem Fighter.dds
+damagetexture = Nomad Awazem Fighter_damaged.dds
+hulktexture = nomad_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 11
+height = 11
+powerproduced = 3
+cost = 46
+racename = nomads
+
+[bonuses]
+0 = SPEEDBOOST,0.10
+1 = COSTBOOST,-0.10
+
+[runninglights]
+
+[contrails]
+
+[engineglows]
+0 = 128,182,3,6,"imperialengineglow.dds","",1,1.0
+
+[targets]
+0 = 28.50,134.50,0,1,1.50,96.50,74.00,174.00,
+1 = 183.50,130.50,0,1,160.50,93.50,221.50,163.50,
+
+[slots]
+0 = 128.00,143.00,STANDARD,
+1 = 128.00,95.00,TURRET,
+2 = 56.00,130.50,STANDARD,
+3 = 200.00,130.50,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

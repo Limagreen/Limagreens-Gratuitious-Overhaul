@@ -1,0 +1,39 @@
+[config]
+classname = fighter
+name = Nomad Majali Fighter
+guiname = Nomad Majali Fighter Hull
+sprite = Nomad Majali Fighter.dds
+damagetexture = Nomad Majali Fighter_damaged.dds
+hulktexture = nomad_hulks.dds
+hulkUVstart = 8
+hulkUVend = 11
+width = 15
+height = 15
+powerproduced = 3
+cost = 39
+racename = nomads
+
+[bonuses]
+1 = SPEEDBOOST,-0.22
+2 = INTEGRITYBOOST,0.25
+
+[runninglights]
+
+[contrails]
+0 = 128,211,80,100,2.0,4
+
+[targets]
+0 = 111.50,222.00,1,1,86.00,198.00,137.00,246.00,,
+
+[slots]
+0 = 88.00,87.50,TURRET,
+1 = 168.00,87.50,TURRET,
+2 = 88.00,142.00,STANDARD,
+3 = 168.00,142.00,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

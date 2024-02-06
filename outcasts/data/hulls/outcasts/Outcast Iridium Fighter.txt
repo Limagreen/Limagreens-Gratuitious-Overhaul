@@ -1,0 +1,41 @@
+[config]
+classname = fighter
+name = Outcast Iridium Fighter
+guiname = Outcast Iridium Fighter Hull
+sprite = OutcastIridiumFighter.dds
+damagetexture = OutcastIridiumFighter_damaged.dds
+hulktexture = outcast_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 13
+height = 13
+powerproduced = 4
+cost = 51
+racename = outcasts
+
+[bonuses]
+0 = ARMOURBOOST,0.25
+
+[runninglights]
+
+[contrails]
+
+[engineglows]
+0 = 116.50,274.50,2.54,2.54,outcasts_engineglow.dds,,1,1.00
+
+[targets]
+0 = 79.50,126.00,0,1,49.50,89.50,109.50,162.50,(damage_sprite_sparks-73.00-127.00),
+1 = 172.25,87.00,0,1,147.50,48.00,197.00,126.00,(damage_sprite_sparks-173.00-79.00),(damage_sprite_smoke-177.00-94.00),
+
+[slots]
+0 = 115.00,195.00,STANDARD,
+1 = 143.50,57.50,TURRET,(235.00-81.00),
+2 = 34.00,96.50,STANDARD,
+3 = 112.00,105.50,STANDARD,
+
+[explosions]
+0 = 0.00,134.50,115.00,EXP_STARTBREAKUP
+1 = 0.00,113.00,85.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,113.00,108.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,82.50,97.00,EXP_BLASTGLARE
+

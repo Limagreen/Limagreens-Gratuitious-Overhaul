@@ -1,0 +1,42 @@
+[config]
+classname = fighter
+name = Nomad Duwasir Fighter
+guiname = Nomad Duwasir Fighter Hull
+sprite = Nomad Duwasir Fighter.dds
+damagetexture = Nomad Duwasir Fighter_damaged.dds
+hulktexture = nomad_hulks.dds
+hulkUVstart = 4
+hulkUVend = 7
+width = 12
+height = 12
+powerproduced = 2
+cost = 32
+racename = nomads
+unlockcost = 2600
+lockable = 1
+
+[bonuses]
+0 = POWERBOOST,0.14
+1 = ARMOURBOOST,0.06
+
+[runninglights]
+
+[contrails]
+0 = 42,225,40,100,2.0,4
+1 = 214,225,40,100,2.0,4
+
+[targets]
+0 = 70.50,171.75,0,1,35.00,133.50,106.00,210.00,
+1 = 168.75,155.50,0,1,144.00,101.00,193.50,210.00,
+
+[slots]
+0 = 128.00,86.00,TURRET,
+1 = 44.00,178.50,STANDARD,
+2 = 212.00,178.50,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

@@ -1,0 +1,68 @@
+[config]
+classname = frigate
+name = Outcast Thorium Frigate
+guiname = Outcast Thorium Frigate Hull
+sprite = OutcastThoriumFrigate.dds
+damagetexture = OutcastThoriumFrigate_damaged.dds
+hulktexture = OutcastThoriumFrigate_hulk.dds
+width = 90
+height = 90
+powerproduced = 11
+cost = 156
+racename = outcasts
+
+[bonuses]
+0 = SPEEDBOOST,0.06
+1 = INTEGRITYBOOST,0.06
+
+[pulseglows]
+0 = 128,128,512,200,OutcastThoriumFrigate_glows.dds,0.5,1.0
+
+[runninglights]
+0 = 112.00,45.50,246.67,4.00,0
+
+[engineglows]
+0 = 161.00,236.00,14.33,10.00,outcasts_engineglow.dds,engine_debris,0,1.00
+1 = 123.50,263.50,15.82,12.04,outcasts_engineglow.dds,engine_debris,0,1.00
+2 = 87.00,255.00,5.89,6.86,outcasts_engineglow.dds,engine_debris,0,1.00
+3 = 102.50,255.50,6.42,6.94,outcasts_engineglow.dds,engine_debris,0,1.00
+4 = 184.00,222.00,7.82,5.80,outcasts_engineglow.dds,engine_debris,0,1.00
+5 = 204.00,223.00,6.15,5.54,outcasts_engineglow.dds,engine_debris,0,1.00
+
+[targets]
+0 = 198.75,111.00,1,1,174.00,77.50,223.50,144.50,SHIP_EMMITER_SMALL,(damage_sprite_sparks-203.00-121.00),(damage_sprite_sparks-202.00-108.00),
+1 = 97.50,82.75,1,1,66.00,56.50,129.00,109.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-93.00-85.00),(damage_sprite_sparks-100.00-74.00),(damage_sprite_sparks-105.00-90.00),(damage_sprite_smoke-99.00-82.00),
+2 = 224.75,178.50,0,1,197.50,156.50,252.00,200.50,(damage_sprite_sparks-226.00-179.00),(damage_sprite_smoke-229.00-173.00),
+3 = 47.75,151.00,1,1,19.50,132.00,76.00,170.00,SHIP_EMMITER_THIN,(damage_sprite_sparks-46.00-149.00),
+4 = 134.50,222.00,1,1,119.50,204.00,146.50,239.50,SHIP_EMMITER_THIN,(damage_sprite_sparks-134.00-222.00),
+5 = 155.50,26.00,1,1,130.50,1.00,190.50,60.50,SHIP_EMMITER_SMALL,(damage_sprite_sparks-157.00-25.00),
+6 = 133.50,179.00,1,1,101.50,155.00,167.00,196.00,SHIP_EMMITER_LARGE,(damage_sprite_sparks-127.00-173.00),(damage_sprite_sparks-135.00-180.00),
+
+[slots]
+0 = 174.00,78.85,TURRET,
+1 = 148.00,62.85,TURRET,
+2 = 72.50,181.50,TURRET,
+3 = 158.50,28.50,STANDARD,
+4 = 128.00,207.50,STANDARD,
+5 = 62.50,104.48,TURRET,
+6 = 157.50,172.00,STANDARD,
+7 = 38.00,153.50,STANDARD,
+8 = 191.00,117.50,STANDARD,
+9 = 157.50,117.00,STANDARD,
+10 = 68.00,73.59,TURRET,
+11 = 186.96,191.68,STANDARD,
+
+[explosions]
+0 = 0.00,104.00,86.00,EXP_FRIGATE
+1 = 210.00,74.50,130.50,EXP_STARTBREAKUP
+2 = 270.00,129.50,180.50,EXP_FRIGATEDEBRIS
+3 = 200.00,142.00,174.00,EXP_FRIGATEBREAKUP
+4 = 200.00,185.00,124.00,EXP_PLUMES
+5 = 200.00,56.50,133.50,EXP_BLASTGLARE
+
+[hulks]
+0 = 13,6,206,251,(emit-170-173-hulk_emmiter),(emit-178-167-hulk_smoke_emmiter),
+1 = 2,255,347,515,(emit-255-347-hulk_emmiter),(emit-269-364-hulk_emmiter),(emit-84-303-hulk_emmiter),(emit-251-360-hulk_smoke_emmiter),(emit-270-444-hulk_smoke_emmiter),
+2 = 353,256,501,434,(emit-442-344-hulk_emmiter),(emit-452-361-hulk_emmiter),(emit-465-345-hulk_smoke_emmiter),
+3 = 208,2,495,252,(emit-402-226-hulk_emmiter),(emit-312-53-hulk_emmiter),(emit-313-63-hulk_smoke_emmiter),(emit-413-230-hulk_smoke_emmiter),
+

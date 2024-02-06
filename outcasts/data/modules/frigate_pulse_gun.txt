@@ -1,0 +1,55 @@
+[config]
+unlockcost = 2920
+lockable = 1
+blasttexture = "turret_blast_yellow.dds"
+armour_penetration = 15
+category = "WEAPONS"
+classname = "SIM_BulletWeaponModule"
+color = 2
+cost = 73
+crew_required = 3
+damage = 7.2
+description = "Nothing says 'take this alien scum!' better than a rapid-firing pulse gun. Fires in rapid salvos for maximum impact."
+fire_interval = 45
+guiname = "Frigate Pulse Gun"
+height = 12
+hitpoints = 14
+icon = turret
+min_range = 205
+max_range = 650
+name = "frigate_pulse_gun"
+optimum_range = 575
+powerconsumed = 8.5
+shield_penetration = 38
+size = "FRIGATE"
+slot_type = TURRET
+sound = outcasts/data/sounds/frigate_pulse_gun.ogg
+soundvolume = 0.7
+speed = 18
+tracking_speed = 2.2
+turret_sprite = "turret_pulsegun"
+turretsize = 10.0
+weight = 30
+width = 5
+uisortpos = 1031
+restricted = "outcasts"
+salvo_size = 4
+salvo_interval = 900
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = damage,DECIMAL
+6 = fire_interval,INTEGER
+7 = tracking_speed,DECIMAL
+8 = shield_penetration,DECIMAL
+9 = armour_penetration,DECIMAL
+10 = crew_required,INTEGER
+11 = optimum_range,DECIMAL
+12 = min_range,DECIMAL
+13 = salvo_size,INTEGER
+14 = salvo_interval,INTEGER
+

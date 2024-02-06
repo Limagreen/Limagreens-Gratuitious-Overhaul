@@ -1,0 +1,44 @@
+[config]
+classname = fighter
+name = Parasite Hydrozoa Fighter
+guiname = Parasite Hydrozoa Fighter Hull
+sprite = Parasite Hydrozoa Fighter.dds
+damagetexture = Parasite Hydrozoa Fighter_damaged.dds
+hulktexture = parasite_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 11
+height = 11
+powerproduced = 3
+cost = 46
+racename = parasites
+
+[bonuses]
+0 = SPEEDBOOST,0.10
+1 = INTEGRITYBOOST,0.07
+2 = ARMOURBOOST,0.15
+
+[runninglights]
+
+[contrails]
+0 = 100,159,40,200,1.5,4
+1 = 156,159,40,200,1.5,4
+
+[engineglows]
+
+[targets]
+0 = 138.50,134.25,0,1,103.50,94.00,173.50,174.50,
+1 = 51.00,187.50,0,1,13.00,146.00,89.00,229.00,
+
+[slots]
+0 = 128.00,143.00,STANDARD,
+1 = 128.00,96.00,TURRET,(52.00-126.00),(204.00-126.50),
+2 = 93.50,178.00,STANDARD,
+3 = 158.50,178.00,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

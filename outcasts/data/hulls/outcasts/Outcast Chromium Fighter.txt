@@ -1,0 +1,43 @@
+[config]
+classname = fighter
+name = Outcast Chromium Fighter
+guiname = Outcast Chromium Fighter Hull
+sprite = OutcastChromiumFighter.dds
+damagetexture = OutcastChromiumFighter_damaged.dds
+hulktexture = outcast_hulks.dds
+hulkUVstart = 0
+hulkUVend = 3
+width = 11
+height = 11
+powerproduced = 3
+cost = 46
+racename = outcasts
+
+[bonuses]
+0 = SPEEDBOOST,0.18
+
+[runninglights]
+
+[contrails]
+0 = 46.00,177.00,40,200,1.5,4
+1 = 206.50,177.50,40,200,1.5,4
+2 = 126.00,257.00,40,200,1.5,4
+
+[engineglows]
+
+[targets]
+0 = 109.00,117.00,0,1,70.50,85.00,135.50,156.00,(damage_sprite_sparks-109.00-116.00),
+1 = 165.00,89.50,1,1,146.50,58.50,196.50,123.50,SHIP_EMMITER_THIN,
+
+[slots]
+0 = 128.00,143.00,STANDARD,
+1 = 151.50,65.50,TURRET,(152.00-5.50),
+2 = 85.50,64.50,STANDARD,
+3 = 128.00,97.50,STANDARD,
+
+[explosions]
+0 = 0.00,128.00,128.00,EXP_STARTBREAKUP
+1 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED_LOD
+2 = 0.00,128.00,128.00,EXP_FIGHTER_DESTROYED
+3 = 0.00,128.00,128.00,EXP_BLASTGLARE
+

@@ -1,0 +1,45 @@
+[config]
+unlockcost = 0
+lockable = 0
+beam_duration = 700
+category = "DEFENSES"
+classname = "SIM_ShieldSupportBeam"
+cost = 116
+crew_required = 8
+description = "This clever bit of techno-trickery beams across a strengthening beam to nearby allied ships and reinforces their shields as they take damage. Ideal for escort frigates."
+fire_interval = 2900
+guiname = "Shield Support Beam I"
+hitpoints = 68
+icon = turret
+min_range = 0
+max_range = 500
+name = "frigate_shieldsupportbeam_I"
+powerconsumed = 19
+restricted = "empire"
+size = "FRIGATE"
+turret_sprite = turret_las_v2
+turretsize = 12.0
+weight = 89
+slot_type = TURRET
+uisortpos = 2138
+
+beamwidth = 18.0
+texture = "shieldsupportbeam.dds"
+capacitorsize = 110
+ssb_beamrate = 20
+mincaptodischarge = 40
+ssb_rechargerate = 20
+pulseduration = 200
+
+[dataitems]
+0 = cost,DECIMAL
+1 = weight,DECIMAL
+2 = hitpoints,DECIMAL
+3 = powerconsumed,DECIMAL
+4 = max_range,DECIMAL
+5 = fire_interval,INTEGER
+6 = crew_required,INTEGER
+7 = min_range,DECIMAL
+8 = capacitorsize,INTEGER
+9 = ssb_beamrate,INTEGER
+10 = ssb_rechargerate,INTEGER

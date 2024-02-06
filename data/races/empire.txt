@@ -6,7 +6,7 @@ debrisstartuv = 96
 debrisenduv = 128
 escapepodid = 0
 shield = "imperial_shield.dds"
-description = "Founded at least 30,000 years ago, the Empire is so shrouded in history and myth that its exact name and its origins are long forgotten. The empire are a technologically obsessed species, relying on high tech shields in preference to armored spaceships. The current emperor took power over 1,100 years ago, and despite coming from a species whose lifespan rarely exceeds 100, the official line is that he merely 'under the weather' which is why he is no longer seen in public."
+description = "Founded at least 30,000 years ago, the Empire is so shrouded in history and myth that its exact name and origins are long forgotten. The Imperials are technologically obsessed, relying on high-tech shields in preference to armored spaceships. The current Emperor took power over 1,100 years ago, despite coming from a species whose lifespan rarely exceeds 100. The official line is that he's merely, 'under the weather,' which is why he is no longer seen in public."
 repairbotid = 2
 contrailid = 2
 music = empire_battle.ogg
@@ -48,14 +48,23 @@ turret_plasma_v3 = plasma_turret_v3.dds,turrets_empire.dds,26
 turret_ecm_v1 = empire_turret_energy1.dds,turrets_empire.dds,1
 
 [victory_messages]
-0 = "A fantastic victory in the name of the empire! Glory be to the emperor!, and some to you as well I suppose..."
-1 = "Excellent work. Once more the mighty power of the imperial fleet is clearly demonstrated throughout the galaxy!"
-2 = "Good work, the emperor himself is most pleased with your victory, minuscule though it may be in the grand scheme..."
+0 = "A fantastic victory in the name of the Empire! Glory be to the Emperor! And some to you as well I suppose..."
+1 = "Excellent work. Once more the mighty power of the Imperial fleet is clearly demonstrated throughout the galaxy!"
+2 = "Good work. The Emperor himself is most pleased with your victory, minuscule though it may be in the grand scheme..."
+3 = "Truly, the Emperor wishes he could have seen this in person, but you know how his health's been."
+4 = "Don't commend yourself too much. Imperial technology made this all but a foregone conclusion."
+5 = "Once again technological superiority secures the Empire's supremacy. Oh, and the brave sacrifice of our personnel, of course."
+6 = "For your fine work this day you've been commended with a 10-year reduction in mandatory service. What's that make it, only a few centuries left in your tour?"
+7 = "Ah the thunder of Imperial machinery. It's sweet tune almost makes the cacophony of our enemy tolerable. Almost. Thank you for obliterating them."
 
 [defeat_messages]
-1 = "Disaster, we are defeated and the name of the emperor is besmirched. This is a disaster. Also, you will be executed immediately."
+1 = "Disaster, we are defeated and the name of the Emperor is besmirched! Also, you will be executed immediately."
 2 = "Look at what you have done. Lesser space empires will now be looking down on us. Your death will be a minor consolation."
 3 = "You will find your next mission comparatively simple. It's to find an airlock, and then find the 'open doors' button. Proceed."
+4 = "I've seen even the rebel rabble fight with more cohesion than you. Perhaps you'll learn better coordination in the Zero-G mines of the outer rim."
+5 = "It's a good thing the Emperor wasn't here to see this, it could have killed him in his current health! Considering he was supposed to be here, that makes you an attempted assassin. You will receive your summons to execution shortly."
+6 = "With our technology how could you have possibly lost?! Were you too stupid to use it properly?"
+7 = "All that expertly crafted Imperial artisanship...gone. Expect an extension to your service commitment. In a penal unit."
 
 [crew]
 0 = "Julius"

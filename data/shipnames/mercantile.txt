@@ -1,4 +1,5 @@
 [names]
+Aggressive Negotiator
 Agoraphobia In an Open Space
 Ambivalent Ambition
 Andromeda Or Bust
@@ -6,18 +7,17 @@ Anxiety, Attack, Disorder
 Authorized Dreamcatcher
 Bag Of Spanners
 Basic Human Riots
-Behold My Tentacles
 Best Fleet Forward
 Catatonic Pick-Me-Up
 Chaos Theory in Disarray
 Common Ancestor
 Contingency Plan?
+Contract Enforcer
 Coping Mechanoid
 Crash Mat
 Crash Test Dumbass
 Deaf, Dumb and Blasé
 Defense Mechanoid
-Die Puny Humans!
 Diplomatic Angst
 Displacement Inactivity
 Dream On
@@ -25,13 +25,13 @@ Empathic Enthalpy
 Fight of Fancy
 First Law of Thermoapathy
 Free Disassociation
-Fruit Fly of My Labor
 Fruit Fly of My Loins
 Fun With Fusion
 Galactic Maniac
 Grandiosity Of Delusional Proportions
 Hand Of God
 Head In the Clouds
+Homicidal Tendencies
 I’m Your Wingman
 Implausibility Clause
 Innovate Don’t Interrogate
@@ -51,8 +51,6 @@ Memory Consolidation
 Mine The Gap
 Mobile Complaint Department
 Monetarism Makes The World Go Round
-My Proboscis Sucks
-Natural De-Selection
 Non-Disclosure Agreement
 Non-Escape Agreement
 Normal Laws of Engagement Do Not Apply
@@ -68,7 +66,6 @@ Perpetual Notion
 Planet Pounder
 Please Wipe Your Fleet
 Potted History
-Probing Proboscis
 Probiotic Army
 Ropy Entropy
 Sampling Error
@@ -82,14 +79,9 @@ Step Away from The Controls
 Sticks And Stones
 Strawberries and Cream
 String Theory in Knots
-Suicidal Tendencies
-Survival Of the Fittest
 Symbiotic Selves
 Tactile Hallucination
 Target Practice
-Tentative Tentacles
-Tenuous Tentacles
-The First Time Ever I Saw Your Race
 The Indifference Engine
 The Zap Wagon
 Third Law of Thermoindifference
@@ -99,5 +91,4 @@ Victory Or Death
 Voyeurism To Outer Space
 Voyeurism To the Bottom Of The Sea
 Warped Mind
-Well, Flagellate My Flagella
 Zeitgeist Heist

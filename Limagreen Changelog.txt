@@ -1,0 +1,6 @@
+
+
+- New ship names
+- New victory and defeat messages
+- New crew names and comms chatter
+- Rebalanced each ship and modules to make them feel different and interesting.

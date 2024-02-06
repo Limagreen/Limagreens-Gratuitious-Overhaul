@@ -6,7 +6,7 @@ debrisstartuv = 0
 debrisenduv = 32
 escapepodid = 3
 shield = "circle_shield.dds"
-description = "The rebels are a collection of species that once formed part of the galactic empire, but broke away due to the harsh demands of the empire for ever greater sacrifices in terms of military commitment. The rebels reasoned that the only way to ever be free of a lifetime of military service for the glory of the empire was to dedicate their lives to fighting against them. As a result, today's modern rebel alliance contains the majority of the irony-resistant species in the galaxy."
+description = "The rebels are a collection of species that once formed part of the Galactic Empire, but broke away due to the harsh demands for ever greater sacrifices in terms of military commitment. The rebels reasoned that the only way to ever be free of a lifetime of military service for the glory of the Empire was to dedicate their lives to fighting against them. As a result, today's modern Rebel Alliance contains the majority of the irony-resistant species in the galaxy."
 repairbotid = 3
 contrailid = 3
 music = rebellion_battle.ogg
@@ -51,11 +51,20 @@ turret_ecm_v1 = rebel_turret_las_v1.dds,turrets_rebel.dds,10
 0 = "Today was a victory for the underdog, the little guy, the man in the street, the common man, and also I guess for you."
 1 = "Another fantastic victory comrade! That will teach them the power of the ordinary man in the space-battleship."
 2 = "Excellent, by blasting our enemies to atoms we have truly shown them that we will not partake in their bloodthirsty wars."
+3 = "Fine work, Comrade. I see you really took that 'Peace through Pulverizaion' rally to heart."
+4 = "Their mounds of dead are a stairway toward our glorious goal of peace. Fantastic, comrade."
+5 = "Take heart, comrade. Our fellow revolutionaries back home will be comforted by your victory in this nameless stretch of space."
+6 = "Once again our open-minded comradery has triumphed over these alien scum."
+7 = "You're starting to turn victory into a new status quo... Just kidding comrade! Good work as always."
 
 [defeat_messages]
 1 = "The rebel creed is to reward success rather than to punish failure. We will leave that to you. Here is a laser pistol with one charge. Don't make it too messy."
 2 = "This glorious revolutionary struggle was going so well until you came along. Remind us again why we gave you a whole fleet to command..."
 3 = "Disaster! We would have achieved a more decisive victory for the revolution if we had just held a jumble sale and sold raffle tickets."
+4 = "Looks like we'll need to revolutionize our naval performance by cutting down its decrepit bourgeoisie command structure. Uh, that would be you comrade."
+5 = "We'll never have peace if we kill them this slowly!"
+6 = "Your still my equal, comrade, but I don't think we'll ever see eye to eye again."
+7 = "Well, it's like they say: What's a revolution without any martyrs? Sorry, but, that will have to include you as well."
 
 [crew]
 0 = "Jack"

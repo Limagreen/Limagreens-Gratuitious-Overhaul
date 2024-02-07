@@ -5,7 +5,7 @@ classname = "SIM_BulletWeaponModule"
 color = 0
 cost = 16
 crew_required = 0
-damage = 4
+damage = 6
 description = "Its a cliched weapon purely because it's so effective. The best choice for blasting enemy fighters and bombers is this classic, effective pulse laser."
 fire_interval = 300
 guiname = "Fighter Laser Cannon"
@@ -28,7 +28,7 @@ tracking_speed = 2.8
 turret_sprite = "turret_bull_v1"
 turretsize = 0
 unlockcost = 0
-weight = 2.5
+weight = 3.4
 width = 1.55
 uisortpos = 1000
 

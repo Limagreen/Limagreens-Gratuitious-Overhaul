@@ -1,8 +1,10 @@
 
 
+- TODO: Separate fighter squadron names?
+- TODO: Give all the "tentacle" and "flagella" Alliance names to the parasites?
+- TODO: Read in the changelog he add a variable to let a weapon fire while cloaked -> definitely give this to torpedoes.
 - New ship names
 - Separated Alliance and Federation names to make them feel more distinct and consistent
-- TODO: Separate fighter squadron names?
 - New victory and defeat messages
 - New crew names and comms chatter
 - Rebalanced each ship and modules to make them feel different and interesting.

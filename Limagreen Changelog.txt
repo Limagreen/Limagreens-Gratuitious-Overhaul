@@ -3,8 +3,67 @@
 - TODO: Separate fighter squadron names?
 - TODO: Give all the "tentacle" and "flagella" Alliance names to the parasites?
 - TODO: Read in the changelog he add a variable to let a weapon fire while cloaked -> definitely give this to torpedoes.
+- TODO: Make cruiser engines actually useful
 - New ship names
 - Separated Alliance and Federation names to make them feel more distinct and consistent
 - New victory and defeat messages
 - New crew names and comms chatter
 - Rebalanced each ship and modules to make them feel different and interesting.
+
+
+Faction Plans
+
+Federation
+* +15% to hull, armor, shields, power, and speed
+* 30% more expensive
+* Blingy but pricey ships
+
+Alliance
+* -50% to hull
+* +40% armor
+* +20% speed (and to power?)
+
+Rebels 
+* -25% to shields and speed
+* +25% to hull and armor
+* (inverse of the empire)
+
+Empire
+* -25% to hull and armor
+* +25% to shields, power, and speed
+
+Tribe
+* Use the vanilla modifiers
+* -50% to shields and armor
+* +100% to hull
+
+Order
+* -20% to hull, armor, and speed
+* +30% to power
+* +30% frigate and cruiser explosion radius/damage (should already be handled by power boost? see notes at bottom of file)
+
+Swarm
+* -15% to armor and shields
+* -45% to hull
+* +15% to speed
+* 50% cheaper
+
+Nomads
+* +35% to speed
+
+Parasites
+* +10% to armor, shields, and speed\
+* -10% to hull
+* 5% more expensive
+
+Outcasts (Pirates? Forget the name)
+* -15% to hull, armor, shields, and speed
+* 15% cheaper cruisers, 25% cheaper frigates, 30% cheaper fighters
+* (inverse of Federation)
+
+
+Official Changelog Notes
+
+remainder go here
+--> 10) Support for weapons firing from cloaked ships using the "fire_while_cloaked=1" setting <--
+--> 16) restricted race field for modules now supports comma-separated list for multiple races (for modders) <--

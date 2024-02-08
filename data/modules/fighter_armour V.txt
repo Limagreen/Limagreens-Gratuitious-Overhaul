@@ -8,13 +8,13 @@ guiname = "Advanced Ablative Armour"
 hitpoints = 0
 icon = module_armour_v14.dds
 lockable = 1
-maxdamageabsorbable = 7.5
+maxdamageabsorbable = 4
 name = "fighter_armour V"
 powerconsumed = 0
 size = "FIGHTER"
 slot_type = STANDARD
 unlockcost = 2400
-weight = 0.31
+weight = 0
 uisortpos = 2040
 
 [dataitems]

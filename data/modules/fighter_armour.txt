@@ -8,13 +8,13 @@ guiname = "Fighter Armour"
 hitpoints = 0
 icon = module_armour_v1.dds
 lockable = 0
-maxdamageabsorbable = 11.25
+maxdamageabsorbable = 12
 name = "fighter_armour"
 powerconsumed = 0
 size = "FIGHTER"
 slot_type = STANDARD
 unlockcost = 0
-weight = 0.625
+weight = 0.3
 uisortpos = 2000
 
 [dataitems]

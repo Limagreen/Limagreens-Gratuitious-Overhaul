@@ -4,14 +4,34 @@
 - TODO: Give all the "tentacle" and "flagella" Alliance names to the parasites?
 - TODO: Read in the changelog he add a variable to let a weapon fire while cloaked -> definitely give this to torpedoes.
 - TODO: Make cruiser engines actually useful
-- New ship names
-- Separated Alliance and Federation names to make them feel more distinct and consistent
-- New victory and defeat messages
-- New crew names and comms chatter
-- Rebalanced each ship and modules to make them feel different and interesting.
+- TODO: Rebalanced each ship and modules to make them feel different and interesting.
+- TODO: Rabbit cruiser is now available to all factions as a mercenary vessel
+- TODO: Reuse rabbit cruiser image as a fighter for the new mercenary sub-faction
+- TODO: New ship names
+- TODO: Separated Alliance and Federation names to make them feel more distinct and consistent
+- TODO: New victory and defeat messages
+- TODO: Change the base price of all hulls to be based on a consistent measurement, then multiplied by faction cost modifier
+-- Done for Federation, Alliance, Rebels, and Empire
+- TODO: New crew names and comms chatter
 
+
+Hull Pricing
+
+* Fighters
+-- Turret:
+-- Standard: 
+* Frigates
+-- Turret:
+-- Standard: 
+* Cruisers
+-- Turret:
+-- Standard: 
 
 Faction Plans
+
+Hare Company
+* No performance modifiers, just decent all around to help round-out client fleets
+* 20% more expensive for their profit margin
 
 Federation
 * +15% to hull, armor, shields, power, and speed
@@ -31,6 +51,7 @@ Rebels
 Empire
 * -25% to hull and armor
 * +25% to shields, power, and speed
+* Too proud to use Hare company vessels
 
 Tribe
 * Use the vanilla modifiers
@@ -47,23 +68,56 @@ Swarm
 * -45% to hull
 * +15% to speed
 * 50% cheaper
+* No interest in Hare company vessels
 
 Nomads
 * +35% to speed
 
 Parasites
-* +10% to armor, shields, and speed\
+* +10% to armor, shields, power and speed
 * -10% to hull
-* 5% more expensive
+* 10% more expensive
+* Note: might give parasites the stats from Federation ships and then make Fed ships the "flat, no modifiers" option
 
 Outcasts (Pirates? Forget the name)
 * -15% to hull, armor, shields, and speed
 * 15% cheaper cruisers, 25% cheaper frigates, 30% cheaper fighters
 * (inverse of Federation)
 
+Hull bonus reference
+0 = ARMOURBOOST,-0.5
+1 = SHIELDBOOST,-0.5
+2 = INTEGRITYBOOST,1.0
+1 = SPEEDBOOST,0.06
 
-Official Changelog Notes
+Official Changelog Notes for features/ides
 
-remainder go here
+--> 5) Escorting fighters are now auto-deployed as a cloud around the parent ship at the start of the battle <--
+--> 14) Updated the manual slightly <--
+--> 1) New system that allows you to save out default orders for a specific ship design, to be automatically applied to new instances of that ship <--
+--> 9) Added new area-of-effect detonation effect for frigate and cruiser destruction, based on powerplant output, affects all nearby ships <--
+--> 6) New 'survival' mode mission added <--
+--> 2) New feature : new minimap-button and hotkey 'O' turns on or off a green/red overlay to show friend or foe ships. <--
+--> 2) New communications window for added gratuitous flavour. <--
+--> 12) Weapons modules now carry out a threat assessment, and de-prioritize shooting at ships with no functioning weapons <--
+--> 4) Autorepair systems no longer target themselves, or other repair systems that have no more supplies. <--
+--> 6) New module type: Carrier Support module allows for mid-battle fighter repairs. <--
+--> 1) Added support for totally separate mod folders <--
+--> 7) This time I really reckon I've fixed the display bug for larger than 2048 width monitors... <--
+--> 8) Added new feature: Supply limits which is currently only implemented for the Gravity Well level. <--
+--> 5) New feature: Custom challenges can now be sent with a new custom challenge editor screen <--
+--> 6) New Feature: Fleet overlay UI for the battle screen showing every ship on your fleet and it's current status. <--
+--> 7) New Feature: For mods... Game now supports variable parallax terrain items to allow fixed backgrounds. <--
+--> 8) New Feature: Flickering nebula lightning effect in background of selected scenarios. <--
+--> 7) Mod Support: Added new 'num_submunitions' (limit 6) and 'flaresize' (default 16) to missile data for modders. <--
+--> 8) Mod Support: Found the bug that prevented modded ships from being larger than 256. No known limit now. <--
+--> 3) Support for return-to-sender capability on missiles. <--
+--> 4) Support for more than one plasma missile in flight at any one time, per launcher (if configured for that module) <--
+--> 5) Support for flak guns (bullet modules with area-of-effect damage). <--
+--> 1) New Feature: Direct control now lets you (optionally) issue orders or edit existing orders for ships mid-battle. <--
+--> 3) Tripled the maximum supported submunitions per missile from 6 to 18, as requested. <--
+--> 2) New feature: Support for the cruiser decoy projector module. <--
+--> 5) Support for new two-stage missiles. <--
+--> 7) Support for new multi-point tractor beams. <--
 --> 10) Support for weapons firing from cloaked ships using the "fire_while_cloaked=1" setting <--
 --> 16) restricted race field for modules now supports comma-separated list for multiple races (for modders) <--

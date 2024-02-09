@@ -13,6 +13,7 @@
 - TODO: Change the base price of all hulls to be based on a consistent measurement, then multiplied by faction cost modifier
 -- Done for Federation, Alliance, Rebels, and Empire
 - TODO: New crew names and comms chatter
+- Removed lighting flashes from Gateway to Oblivion where the effect was too harsh and an epilepsy danger.
 
 
 Hull Pricing
@@ -89,6 +90,12 @@ Hull bonus reference
 1 = SHIELDBOOST,-0.5
 2 = INTEGRITYBOOST,1.0
 1 = SPEEDBOOST,0.06
+
+flareuvid reference
+0 -> red
+1 -> blue
+2 -> dark yellow
+3 -> pale yellow
 
 Official Changelog Notes for features/ides
 

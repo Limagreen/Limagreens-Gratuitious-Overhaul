@@ -16,7 +16,11 @@ unlockcost = 4200
 lockable = 1
 
 [bonuses]
-0 = ARMOURBOOST,0.13
+0 = POWERBOOST,0.25
+1 = SHIELDBOOST,0.25
+2 = ARMOURBOOST,-0.25
+3 = INTEGRITYBOOST,-0.25
+4 = SPEEDBOOST,0.25
 
 [runninglights]
 0 = 128,177,200,3,2

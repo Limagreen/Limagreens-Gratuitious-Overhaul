@@ -55,9 +55,7 @@ Empire
 * Too proud to use Hare company vessels
 
 Tribe
-* Use the vanilla modifiers
-* -50% to shields and armor
-* +100% to hull
+* Use the vanilla modifiers: -50% to shields and armor, +100% to hull
 
 Order
 * -20% to hull, armor, and speed
@@ -86,10 +84,11 @@ Outcasts (Pirates? Forget the name)
 * (inverse of Federation)
 
 Hull bonus reference
-0 = ARMOURBOOST,-0.5
+0 = POWERBOOST,0.12
 1 = SHIELDBOOST,-0.5
-2 = INTEGRITYBOOST,1.0
-1 = SPEEDBOOST,0.06
+2 = ARMOURBOOST,-0.5
+3 = INTEGRITYBOOST,1.0
+4 = SPEEDBOOST,0.06
 
 flareuvid reference
 0 -> red

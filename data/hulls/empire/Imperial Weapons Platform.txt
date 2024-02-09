@@ -11,7 +11,11 @@ cost = 152
 racename = empire
 
 [bonuses]
-0 = SHIELDBOOST,0.1
+0 = POWERBOOST,0.35
+1 = SHIELDBOOST,0.35
+2 = ARMOURBOOST,-0.25
+3 = INTEGRITYBOOST,-0.25
+4 = SPEEDBOOST,-0.25
 
 [targets]
 0 = 241.00,191.00,0,1,226.00,176.00,256.00,206.00,(damage_sprite_sparks-241.00-191.00),(damage_sprite_sparks-243.00-190.00),

@@ -54,7 +54,7 @@ turret_ecm_v1 = empire_turret_energy1.dds,turrets_empire.dds,1
 3 = "Truly, the Emperor wishes he could have seen this in person, but you know how his health's been."
 4 = "Don't commend yourself too much. Imperial technology made this all but a foregone conclusion."
 5 = "Once again technological superiority secures the Empire's supremacy. Oh, and the brave sacrifice of our personnel, of course."
-6 = "For your fine work this day you've been commended with a 10-year reduction in mandatory service. What's that make it, only a few centuries left in your tour?"
+6 = "For your fine work this day you have been rewarded with a 10-year reduction in mandatory service. What's that make it, only a few centuries left in your tour?"
 7 = "Ah the thunder of Imperial machinery. It's sweet tune almost makes the cacophony of our enemy tolerable. Almost. Thank you for obliterating them."
 
 [defeat_messages]

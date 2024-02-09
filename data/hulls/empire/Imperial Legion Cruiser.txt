@@ -14,7 +14,11 @@ unlockcost = 7200
 lockable = 1
 
 [bonuses]
-0 = SHIELDBOOST,0.16
+0 = POWERBOOST,0.25
+1 = SHIELDBOOST,0.25
+2 = ARMOURBOOST,-0.25
+3 = INTEGRITYBOOST,-0.25
+4 = SPEEDBOOST,0.25
 
 [engineglows]
 0 = 108.00,236.00,14.00,28.00,imperialengineglow.dds,engine_debris,0,1.00

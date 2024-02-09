@@ -12,9 +12,9 @@ name = "fighter_engine III"
 powerconsumed = 3
 size = "FIGHTER"
 slot_type = STANDARD
-thrust = 20
+thrust = 14
 unlockcost = 0
-weight = 3.0
+weight = 0
 stack_effectiveness = 0.5
 uisortpos = 3020
 

@@ -9,13 +9,13 @@ guiname = "Target Booster II"
 description = "A ship-wide booster gizmo which increases the effective tracking speed of all of the weapons on your ship, giving them a better chance of hitting your enemies."
 weight = 79
 hitpoints = 72
-targetboost = 0.16
+targetboost = 0.20
 cost = 155
 icon = module_target2.dds
 crew_required = 10
 powerconsumed = 12
 slot_type = STANDARD
-stack_effectiveness = 0.6
+stack_effectiveness = 1.0
 uisortpos = 4150
 
 [dataitems]

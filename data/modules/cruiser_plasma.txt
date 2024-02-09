@@ -2,7 +2,7 @@
 unlockcost = 400
 lockable = 1
 animationgap = 10
-armour_penetration = 52
+armour_penetration = 44
 category = "WEAPONS"
 classname = "SIM_PlasmaLauncherModule"
 cost = 115
@@ -26,7 +26,7 @@ sound = data/sounds/laserblasts_crt05_06_1.ogg
 soundvolume = 1.0
 speed = 12.0
 spritesize = 14.0
-tracking_speed = 0.6
+tracking_speed = 0.8
 turnspeed = 0.5
 turret_sprite = "turret_plasma_v2"
 turretsize = 10.0

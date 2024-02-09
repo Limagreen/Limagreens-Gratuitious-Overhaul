@@ -13,14 +13,13 @@
 - TODO: Change the base price of all hulls to be based on a consistent measurement, then multiplied by faction cost modifier
 -- Done for Federation, Alliance, Rebels, and Empire
 - TODO: New crew names and comms chatter
-- Removed lighting flashes from Gateway to Oblivion where the effect was too harsh and an epilepsy danger.
 
 
 Hull Pricing
 
 * Fighters
--- Turret:
--- Standard: 
+-- Turret: 10
+-- Standard:  5
 * Frigates
 -- Turret:
 -- Standard: 

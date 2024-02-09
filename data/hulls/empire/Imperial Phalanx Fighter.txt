@@ -10,7 +10,7 @@ hulkUVend = 11
 width = 8
 height = 8
 powerproduced = 2.0
-cost = 28
+cost = 20
 racename = empire
 
 [bonuses]

@@ -12,10 +12,10 @@ name = "fighter_engine"
 powerconsumed = 1
 size = "FIGHTER"
 slot_type = STANDARD
-thrust = 14
+thrust = 10
 unlockcost = 0
-weight = 2.0
-stack_effectiveness = 0.72
+weight = 0
+stack_effectiveness = 0.5
 uisortpos = 3000
 
 [dataitems]

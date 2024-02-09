@@ -9,13 +9,13 @@ hitpoints = 7
 icon = module_engine_3.dds
 lockable = 0
 name = "fighter_engine III"
-powerconsumed = 3.9
+powerconsumed = 3
 size = "FIGHTER"
 slot_type = STANDARD
 thrust = 20
 unlockcost = 0
 weight = 3.0
-stack_effectiveness = 0.72
+stack_effectiveness = 0.5
 uisortpos = 3020
 
 [dataitems]

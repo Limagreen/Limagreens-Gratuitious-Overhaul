@@ -2,16 +2,18 @@
 
 - TODO: Separate fighter squadron names?
 - TODO: Give all the "tentacle" and "flagella" Alliance names to the parasites?
-- TODO: Read in the changelog he add a variable to let a weapon fire while cloaked -> definitely give this to torpedoes.
+- TODO: fire_while_cloaked=1 -> definitely give this to torpedoes.
+-- Rename megaton missile to cruiser torpedo? Give it this trait?
+-- After realizing I can't buff the accuracy penalty against cloaked ships, I've decided to look into making cloak basically last the entire battle so it instead functions more like
+an expensive passive upgrade. This can only be done though if I give "fire_while_cloaked=1" to a wide variety of, if not all weapon systems. So it will be a later thing
 - TODO: Make cruiser engines actually useful
-- TODO: Rebalanced each ship and modules to make them feel different and interesting.
+- TODO: Rebalance each ship and module to make them feel different and interesting.
 - TODO: Rabbit cruiser is now available to all factions as a mercenary vessel
 - TODO: Reuse rabbit cruiser image as a fighter for the new mercenary sub-faction
 - TODO: New ship names
 - TODO: Separate Alliance and Federation ship names to make them feel more distinct and consistent
 - TODO: New victory and defeat messages
 - TODO: Change the base price of all hulls to be based on a consistent measurement
--- Done for Federation, Alliance, Rebels, and Empire
 - TODO: New crew names and comms chatter
 - TODO: Add an improved carrier module for Tribe cruisers
 

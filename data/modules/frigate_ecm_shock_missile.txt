@@ -35,8 +35,8 @@ turret_sprite = "turret_miss_v3"
 turretsize = 10
 warhead = ECMSHOCK
 weight = 31
-ecm_strength = 20
-shock_duration = 2000
+ecm_strength = 25
+shock_duration = 500
 uisortpos = 1090
 
 [dataitems]

@@ -14,9 +14,9 @@ icon = module_repair.dds
 crew_required = 32
 peace_interval = 150
 repair_rate = 0.05
-powerconsumed = 5.0
+powerconsumed = 4.0
 slot_type = STANDARD
-stack_effectiveness = 0.9
+stack_effectiveness = 1.0
 maxrepairsupplies = 450
 uisortpos = 4110
 

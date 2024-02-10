@@ -9,15 +9,15 @@ guiname = "Nanobot Repair System"
 description = "Move into the modern age with this advanced nanobot-repair system, much more effective than standard repair systems. Some crew are still needed to program the bots, obviously."
 weight = 99
 hitpoints = 105
-cost = 162
+cost = 182
 icon = module_repair.dds
-crew_required = 25
+crew_required = 11
 peace_interval = 150
 repair_rate = 0.11
 powerconsumed = 5.1
 slot_type = STANDARD
-stack_effectiveness = 0.9
-maxrepairsupplies = 490
+stack_effectiveness = 1.0
+maxrepairsupplies = 450
 uisortpos = 4120
 
 [dataitems]

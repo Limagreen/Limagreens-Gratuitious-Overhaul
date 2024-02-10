@@ -14,11 +14,11 @@ icon = module_repair_armor_1.dds
 crew_required = 22
 peace_interval = 60
 repair_rate = 0.07
-powerconsumed = 8.8
+powerconsumed = 4.2
 slot_type = STANDARD
 repair_type = ARMOR
-stack_effectiveness = 0.9
-maxrepairsupplies = 370
+stack_effectiveness = 1.0
+maxrepairsupplies = 380
 uisortpos = 4130
 
 [dataitems]

@@ -6,19 +6,19 @@ category = "OTHER"
 size = "CRUISER"
 name = "cruiser_repair_armor2"
 guiname = "Advanced Armor Repair"
-description = "Only slightly faster and lighter than the standard dedicated-armor repair system, but sometimes in battle that extra weld is what saves your galactic bacon."
+description = "A bit faster and lighter than the standard armor repair system, because sometimes in battle that extra weld is what saves your galactic bacon."
 weight = 82
 hitpoints = 110
 cost = 162
 icon = module_repair_armor_2.dds
 crew_required = 20
-peace_interval = 65
-repair_rate = 0.08
-powerconsumed = 8.4
+peace_interval = 55
+repair_rate = 0.1
+powerconsumed = 4.4
 slot_type = STANDARD
 repair_type = ARMOR
-stack_effectiveness = 0.9
-maxrepairsupplies = 410
+stack_effectiveness = 1.0
+maxrepairsupplies = 400
 uisortpos = 4140
 
 [dataitems]

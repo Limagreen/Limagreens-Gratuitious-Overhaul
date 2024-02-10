@@ -12,13 +12,13 @@ hitpoints = 59
 cost = 88
 icon = module_tribe_frigate_repair.dds
 crew_required = 6
-peace_interval = 150
+peace_interval = 50
 repair_rate = 0.14
 restricted = "tribe"
-powerconsumed = 5.1
+powerconsumed = 3.1
 slot_type = STANDARD
-stack_effectiveness = 0.9
-maxrepairsupplies = 450
+stack_effectiveness = 1.0
+maxrepairsupplies = 500
 uisortpos = 4122
 
 [dataitems]

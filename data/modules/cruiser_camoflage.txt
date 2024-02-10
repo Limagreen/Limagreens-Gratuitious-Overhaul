@@ -15,7 +15,7 @@ crew_required = 36
 powerconsumed = 18
 max_cloak_power = 200
 cloak_rechargerate = 0.01
-cloak_consumptionrate = 0.02
+cloak_consumptionrate = 0.01
 slot_type = STANDARD
 uisortpos = 2190
 

@@ -1,7 +1,7 @@
 [config]
 unlockcost = 0
 lockable = 0
-armour_penetration = 70
+armour_penetration = 55
 beam_duration = 1000
 beamwidth = 6.0
 blasttexture = "beam_red_atlas.dds"
@@ -10,7 +10,7 @@ classname = "SIM_BeamWeaponModule"
 color = 255,16,16
 cost = 115
 crew_required = 8
-damage = 57
+damage = 45
 description = "The mainstream method for blasting enemy cruisers into tiny bits, these huge laser beams soak up enough power in each shot to run every toaster on a medium size planet for 7 minutes."
 fire_interval = 2700
 grain = "beam_red_atlas.dds"

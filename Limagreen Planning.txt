@@ -10,7 +10,7 @@
 - TODO: New ship names
 - TODO: Separate Alliance and Federation ship names to make them feel more distinct and consistent
 - TODO: New victory and defeat messages
-- TODO: Change the base price of all hulls to be based on a consistent measurement, then multiplied by faction cost modifier
+- TODO: Change the base price of all hulls to be based on a consistent measurement
 -- Done for Federation, Alliance, Rebels, and Empire
 - TODO: New crew names and comms chatter
 - TODO: Add an improved carrier module for Tribe cruisers
@@ -89,6 +89,7 @@ Hull bonus reference
 2 = ARMOURBOOST,-0.5
 3 = INTEGRITYBOOST,1.0
 4 = SPEEDBOOST,0.06
+5 = COSTBOOST,-0.20
 
 flareuvid reference
 0 -> red

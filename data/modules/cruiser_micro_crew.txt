@@ -7,13 +7,13 @@ size = "CRUISER"
 name = "cruiser micro crew"
 guiname = "Micro Crew Module"
 description = "Sometimes you just need room for a handful of extra plucky starship engineers to do the cooking and cleaning. This is the crew podule for that scenario."
-weight = 59
-cost = 50
-hitpoints = 75
+weight = 25
+cost = 25
+hitpoints = 55
 icon = module_crew.dds
 crew_required = 0
 powerconsumed = 0
-crewsupply = 80
+crewsupply = 50
 slot_type = STANDARD
 uisortpos = 4000
 

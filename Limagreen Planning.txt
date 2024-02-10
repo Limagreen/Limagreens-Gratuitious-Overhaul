@@ -8,11 +8,12 @@
 - TODO: Rabbit cruiser is now available to all factions as a mercenary vessel
 - TODO: Reuse rabbit cruiser image as a fighter for the new mercenary sub-faction
 - TODO: New ship names
-- TODO: Separated Alliance and Federation names to make them feel more distinct and consistent
+- TODO: Separate Alliance and Federation ship names to make them feel more distinct and consistent
 - TODO: New victory and defeat messages
 - TODO: Change the base price of all hulls to be based on a consistent measurement, then multiplied by faction cost modifier
 -- Done for Federation, Alliance, Rebels, and Empire
 - TODO: New crew names and comms chatter
+- TODO: Add an improved carrier module for Tribe cruisers
 
 
 Hull Pricing

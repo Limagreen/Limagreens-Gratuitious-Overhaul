@@ -9,13 +9,13 @@ guiname = "Supercharged Engine"
 description = "A super-charged engine that delivers incredible power, but comes with an associated price-tag."
 weight = 0
 hitpoints = 136
-thrust = 150
+thrust = 190
 cost = 300
 icon = module_engine_6.dds
 crew_required = 24
 powerconsumed = 3.7
 slot_type = STANDARD
-uisortpos = 3050
+uisortpos = 3040
 
 [dataitems]
 0 = cost,DECIMAL

@@ -9,13 +9,13 @@ guiname = "Novacharged Engine"
 description = "If you want a cruiser to outrun frigates, this is the engine for you. Just know it's a bit fragile compared to most siblings."
 weight = 0
 hitpoints = 110
-thrust = 190
+thrust = 236
 cost = 373
 icon = module_engine_5.dds
 crew_required = 30
 powerconsumed = 8.3
 slot_type = STANDARD
-uisortpos = 3040
+uisortpos = 3050
 
 [dataitems]
 0 = cost,DECIMAL

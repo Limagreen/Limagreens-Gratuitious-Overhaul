@@ -6,14 +6,14 @@ category = "OTHER"
 size = "CRUISER"
 name = "cruiser crew IV"
 guiname = "Zero-G Crew"
-description = "By cutting down on gravity support, this crew module reduces both the weight and the power requirements for it's inhabitants"
+description = "By cutting down on gravity support, this crew module reduces both weight and power consumption, while allowing for more crew via floor and ceiling sleeping pods."
 weight = 85
-cost = 141
+cost = 210
 hitpoints = 125
 icon = module_crew5.dds
 crew_required = 0
 powerconsumed = 1.1
-crewsupply = 273
+crewsupply = 350
 slot_type = STANDARD
 uisortpos = 4040
 

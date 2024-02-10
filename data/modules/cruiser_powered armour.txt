@@ -15,7 +15,7 @@ icon = module_armour_v7.dds
 crew_required = 0
 powerconsumed = 3
 slot_type = STANDARD
-stack_effectiveness = 0.97
+stack_effectiveness = 1.0
 uisortpos = 2060
 
 [dataitems]

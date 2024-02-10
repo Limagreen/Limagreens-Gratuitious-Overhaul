@@ -5,17 +5,17 @@ classname = "SIM_ArmourModule"
 category = "DEFENSES"
 size = "CRUISER"
 name = "cruiser_armour IV"
-guiname = "Cruiser Lightweight Armor"
-description = "Just because it's tough, it doesn't have to be heavy. Low mass and high strength make for an expensive choice of armor."
+guiname = "Cruiser Advanced Composite Armor"
+description = "Advanced composite armor constructed from a fiendishly complex smorgasbord of exotic metals and other materials. Not cheap, but you get what you pay for."
 weight = 90
 hitpoints = 0
-maxdamageabsorbable = 117
-cost = 268
+maxdamageabsorbable = 145
+cost = 285
 icon = module_armour_v4.dds
 crew_required = 0
 powerconsumed = 0
 slot_type = STANDARD
-stack_effectiveness = 0.97
+stack_effectiveness = 1.0
 uisortpos = 2030
 
 [dataitems]

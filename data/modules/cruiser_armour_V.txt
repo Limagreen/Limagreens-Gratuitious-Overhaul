@@ -7,15 +7,15 @@ size = "CRUISER"
 name = "cruiser_armour V"
 guiname = "Ultraheavy Armor"
 description = "It weighs a ton, but can absorb a phenomenal amount of pounding. This is the armor for people who aren't in a hurry to get anywhere."
-weight = 160
+weight = 220
 hitpoints = 0
-maxdamageabsorbable = 145
+maxdamageabsorbable = 220
 cost = 261
 icon = module_armour_v5.dds
 crew_required = 0
 powerconsumed = 0
 slot_type = STANDARD
-stack_effectiveness = 0.97
+stack_effectiveness = 1.0
 uisortpos = 2040
 
 [dataitems]

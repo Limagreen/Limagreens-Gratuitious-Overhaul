@@ -35,51 +35,51 @@ Hare Company
 * 20% more expensive for their profit margin
 
 Federation
-* +15% to hull, armor, shields, power, and speed
+* +15% hull, armor, shields, power, and speed
 * 30% more expensive
 * Blingy but pricey ships
 
 Alliance
-* -50% to hull
+* -50% hull
 * +40% armor
 * +20% speed (and to power?)
 
 Rebels 
-* -25% to shields and speed
-* +25% to hull and armor
+* -25% shields and speed
+* +25% hull and armor
 * (inverse of the empire)
 
 Empire
-* -25% to hull and armor
-* +25% to shields, power, and speed
+* -25% hull and armor
+* +25% shields, power, and speed
 * Too proud to use Hare company vessels
 
 Tribe
-* Use the vanilla modifiers: -50% to shields and armor, +100% to hull
+* Use the vanilla modifiers: -50% shields and armor, +100% hull
 
 Order
-* -20% to hull, armor, and speed
-* +30% to power
+* -20% hull, armor, and speed
+* +30% power
 * +30% frigate and cruiser explosion radius/damage (should already be handled by power boost? see notes at bottom of file)
 
 Swarm
-* -15% to armor and shields
-* -45% to hull
-* +15% to speed
+* -15% armor and shields
+* -45% hull
+* +15% speed
 * 50% cheaper
 * No interest in Hare company vessels
 
 Nomads
-* +35% to speed
+* +35% speed
 
 Parasites
-* +10% to armor, shields, power and speed
-* -10% to hull
+* +10% armor, shields, power and speed
+* -10% hull
 * 10% more expensive
 * Note: might give parasites the stats from Federation ships and then make Fed ships the "flat, no modifiers" option
 
 Outcasts (Pirates? Forget the name)
-* -15% to hull, armor, shields, and speed
+* -15% hull, armor, shields, and speed
 * 15% cheaper cruisers, 25% cheaper frigates, 30% cheaper fighters
 * (inverse of Federation)
 

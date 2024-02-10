@@ -1,16 +1,16 @@
 [config]
-unlockcost = 2400
+unlockcost = 2500
 lockable = 1
 classname = "SIM_EngineModule"
 category = "ENGINES"
 size = "CRUISER"
 name = "cruiser_engine VI"
-guiname = "Lightweight Cruiser Engine"
-description = "A superlightweight engine that delivers reasonable thrust and doesn't weigh as much as it's cheaper, older style variants."
-weight = 100
-hitpoints = 110
-thrust = 105
-cost = 185
+guiname = "Supercharged Engine"
+description = "A super-charged engine that delivers incredible power, but comes with an associated price-tag."
+weight = 0
+hitpoints = 136
+thrust = 150
+cost = 300
 icon = module_engine_6.dds
 crew_required = 24
 powerconsumed = 3.7

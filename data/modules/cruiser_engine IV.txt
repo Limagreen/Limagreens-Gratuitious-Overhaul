@@ -1,5 +1,5 @@
 [config]
-unlockcost = 2500
+unlockcost = 2400
 lockable = 1
 classname = "SIM_EngineModule"
 category = "ENGINES"
@@ -7,13 +7,13 @@ size = "CRUISER"
 name = "cruiser_engine IV"
 guiname = "High-Efficiency Engine"
 description = "A high-efficiency engine delivering high thrust but consuming relatively low power"
-weight = 138
-hitpoints = 136
-thrust = 110
-cost = 225
+weight = 0
+hitpoints = 140
+thrust = 123
+cost = 242
 icon = module_engine_4.dds
 crew_required = 29
-powerconsumed = 4.0
+powerconsumed = 3.0
 slot_type = STANDARD
 uisortpos = 3030
 

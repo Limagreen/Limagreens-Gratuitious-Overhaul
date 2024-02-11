@@ -13,7 +13,7 @@ hitpoints = 115
 icon = module_crew4.dds
 crew_required = 0
 powerconsumed = 1
-crewsupply = 500
+crewsupply = 400
 slot_type = STANDARD
 uisortpos = 4050
 

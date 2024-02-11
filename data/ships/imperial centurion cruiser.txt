@@ -20,5 +20,5 @@ hull = Imperial Centurion Cruiser hull
 13 = cruiser power III,
 14 = cruiser_targetboosterI,
 15 = cruiser_ecm shield,
-16 = cruiser crew II,
+16 = cruiser crew III,
 17 = cruiser shield II,

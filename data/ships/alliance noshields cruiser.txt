@@ -17,4 +17,4 @@ hull = Alliance Alligator Cruiser hull
 10 = cruiser_armour II,
 11 = cruiser_ecm shield,
 12 = cruiser_targetboosterII,
-13 = cruiser crew II,
+13 = cruiser crew III,

@@ -6,7 +6,7 @@ hull = Rebel Minotaur Cruiser
 [modules]
 0 = cruiser_targetpainter,
 1 = cruiser_beamlaser,
-2 = cruiser crew II,
+2 = cruiser crew III,
 3 = cruiser power,
 4 = cruiser dummy missile,
 5 = cruiser megatonmissile,

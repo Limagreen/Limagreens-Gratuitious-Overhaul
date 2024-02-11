@@ -4,7 +4,7 @@ guiname = rebel fenrir cruiser
 hull = Rebel Fenrir Cruiser 
 
 [modules]
-0 = cruiser power III,
+0 = secret cruiser power III,
 1 = cruiser heavy plasma,
 2 = cruiser_nanorepair,
 3 = cruiser_engine,

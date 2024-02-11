@@ -21,6 +21,6 @@ hull = Imperial Praetorian Cruiser hull
 14 = cruiser_pdscanner2,
 15 = cruiser_beamlaser,
 16 = cruiser_armour III,
-17 = cruiser crew III,
+17 = cruiser crew IV,
 18 = cruiser_armour II,
 19 = cruiser shield II,

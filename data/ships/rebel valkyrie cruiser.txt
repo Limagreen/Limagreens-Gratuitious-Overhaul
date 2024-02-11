@@ -18,4 +18,4 @@ hull = Rebel Valkyrie Cruiser
 11 = cruiser_repair,
 12 = cruiser power,
 13 = cruiser power II,
-14 = cruiser crew III,
+14 = cruiser crew IV,

@@ -13,7 +13,7 @@ cost = 174
 icon = module_powergen_v8.dds
 crew_required = 35
 powerconsumed = 0
-powerproduced = 51
+powerproduced = 55
 slot_type = STANDARD
 uisortpos = 4080
 

@@ -7,15 +7,15 @@ size = "FRIGATE"
 name = "frigate_armour V"
 guiname = "Lightweight Powered Armor"
 description = "The advantages of a powered armor system, with minimal additional weight. Of course, this comes at a noticeable cost"
-weight = 38
+weight = 30
 hitpoints = 0
 maxdamageabsorbable = 85
 cost = 142
 icon = module_armour_v11.dds
 crew_required = 0
-powerconsumed = 2.6
+powerconsumed = 2.8
 slot_type = STANDARD
-stack_effectiveness = 0.95
+stack_effectiveness = 1.0
 uisortpos = 2040
 
 [dataitems]

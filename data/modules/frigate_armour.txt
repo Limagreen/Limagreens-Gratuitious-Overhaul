@@ -6,8 +6,8 @@ category = "DEFENSES"
 size = "FRIGATE"
 name = "frigate_armour"
 guiname = "Frigate Armour"
-description = "For frigate captains on a budget who cannot stretch to expensive composite or active armor, these simple steel plates ensure at least the crudest weapons won't breach the hull"
-weight = 24
+description = "For frigate captains on a budget who cannot stretch to expensive composite or active armor, these simple steel plates ensure at least the crudest weapons won't breach the hull."
+weight = 36
 hitpoints = 0
 maxdamageabsorbable = 36
 cost = 45
@@ -15,7 +15,7 @@ icon = module_armour_v8.dds
 crew_required = 0
 powerconsumed = 0
 slot_type = STANDARD
-stack_effectiveness = 0.95
+stack_effectiveness = 1.0
 uisortpos = 2000
 
 [dataitems]

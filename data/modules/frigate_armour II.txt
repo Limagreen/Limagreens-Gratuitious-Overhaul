@@ -7,7 +7,7 @@ size = "FRIGATE"
 name = "frigate_armour II"
 guiname = "Frigate Armour II"
 description = "Composite armor contains a number of different layers of exotic metals sandwiched together like some super-tough chocolate layer cake."
-weight = 34
+weight = 52
 hitpoints = 0
 maxdamageabsorbable = 52
 cost = 63
@@ -15,7 +15,7 @@ icon = module_armour_v9.dds
 crew_required = 0
 powerconsumed = 0
 slot_type = STANDARD
-stack_effectiveness = 0.95
+stack_effectiveness = 1.0
 uisortpos = 2010
 
 [dataitems]

@@ -7,7 +7,7 @@ size = "FRIGATE"
 name = "frigate_armour III"
 guiname = "Frigate Armour III"
 description = "Armor so strong you could throw your spaceship down a flight of stairs and not even see a scratch, although that's not an experiment you see conducted these days."
-weight = 40
+weight = 74
 hitpoints = 0
 maxdamageabsorbable = 74
 cost = 96
@@ -15,7 +15,7 @@ icon = module_armour_v10.dds
 crew_required = 0
 powerconsumed = 0
 slot_type = STANDARD
-stack_effectiveness = 0.95
+stack_effectiveness = 1.0
 uisortpos = 2020
 
 [dataitems]

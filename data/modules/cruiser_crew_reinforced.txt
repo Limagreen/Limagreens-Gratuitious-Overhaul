@@ -15,7 +15,7 @@ crew_required = 0
 powerconsumed = 1.1
 crewsupply = 300
 slot_type = STANDARD
-uisortpos = 4060
+uisortpos = 4050
 
 [dataitems]
 0 = cost,DECIMAL

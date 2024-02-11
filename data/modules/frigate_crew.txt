@@ -9,11 +9,11 @@ guiname = "Crew Module"
 description = "A standard frigate-sized crew podule where your crewmembers can rest their heads or other appropriate body sections in between glorious battles to the death."
 weight = 25
 cost = 30
-hitpoints = 10
+hitpoints = 16
 icon = module_crew.dds
 crew_required = 0
 powerconsumed = 0.2
-crewsupply = 54
+crewsupply = 55
 slot_type = STANDARD
 uisortpos = 4010
 

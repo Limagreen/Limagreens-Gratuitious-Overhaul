@@ -6,14 +6,14 @@ category = "OTHER"
 size = "FRIGATE"
 name = "frigate crew II"
 guiname = "Crew Module II"
-description = "For frigates whose crew complements extend beyond the size of hockey teams, this larger crew podule ensures room enough for everyone from ships cook to ships captain."
+description = "For frigates whose crew complements extend beyond the size of hockey teams, this larger crew podule ensures room enough for everyone from the cooks to the captain."
 weight = 37
 cost = 40
-hitpoints = 12
+hitpoints = 20
 icon = module_crew2.dds
 crew_required = 0
 powerconsumed = 1
-crewsupply = 78
+crewsupply = 80
 slot_type = STANDARD
 uisortpos = 4020
 
